@@ -47,11 +47,11 @@ No header on single-POV chapters. Once dual POV starts, every chapter carries a
 
 ## Outstanding
 
-- `bible.md` and `outline.md` still contain em dashes and en dashes inherited from
-  the original drafting (roughly 41 and 653 em dashes respectively). The chapter
-  prose and the ledger are clean. This matters operationally, not just cosmetically:
-  the outline is pasted into every chapter prompt as context, so the model reads
-  those dashes as in-context style examples on every call. Not yet cleaned.
+- Nothing dash-related. The whole repository is clean of em dashes, en dashes, and
+  double hyphens used as dashes. Re-check with
+  `grep -rn -e $'\u2014' -e $'\u2013' -e ' [-][-] ' --exclude-dir=.git .` before any
+  batch hand-off. It exits 1 when the repository is clean. The escapes and the
+  bracket expression keep this file from matching its own check.
 - Two displaced chapters from the 1 through 6 compression still need final placement.
 - Three allied pack threads (Hollow Ridge / Rurik Voss, Fenmoor / Maeve Renn,
   Stonevale / Torvin Sedge) and the backstory integrations (Kessa Vane at Ch. 198,
