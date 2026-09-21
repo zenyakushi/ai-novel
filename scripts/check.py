@@ -109,6 +109,19 @@ def check_chapter(path, dual_pov_started):
     if n_notx > 2:
         warns.append(f"{n_notx} \"it wasn't X, it was Y\" constructions (max 2)")
 
+    # Gloss-simile tic: a concrete beat followed by an explanatory comparison
+    # ("the way a person notices...", "more like sand than weather", "like a line
+    # he had been handed"). Once or twice reads as voice. Seven times in 1,100
+    # words, which is what Chapter 5 shipped with on its first pass, reads as a
+    # tic. The project memory flags this pattern explicitly.
+    gloss = re.findall(r"the way [a-z]|, like [a-z]|more like [a-z ]{2,30} than|"
+                       r"register [a-z ]{2,30} use when", body, re.I)
+    if len(gloss) > 2:
+        errs.append(f"{len(gloss)} gloss-simile constructions (max 2): "
+                    + "; ".join(repr(g.strip()) for g in gloss[:4]))
+    elif len(gloss) == 2:
+        warns.append("2 gloss-simile constructions, at the limit")
+
     return wc, errs, warns
 
 

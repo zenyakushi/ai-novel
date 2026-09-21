@@ -10,7 +10,7 @@ The ground went down almost at once, scrub and loose stone under a skin of new s
 
 Behind her the shouting started, and it was not the shouting of men surprised.
 
-They had been waiting for her to run. It made the rest of it easier for them, she understood, distantly, the way she understood the cold.
+They had been waiting for her to run. It made the rest of it easier for them, and she understood that from somewhere far back behind her own eyes.
 
 A body found downhill of the border had run. A body found at the post had been put there. Two different files, and only one of them got read twice.
 
@@ -18,7 +18,7 @@ Her lungs had gone to knives by the fourth breath. Nineteen years of keeping her
 
 The first one caught her at the bottom of the slope.
 
-He did not tackle her. He simply arrived in front of her, the way a wall arrives, and her own speed did most of the work.
+He did not tackle her. He simply arrived in front of her, set and waiting, and her own speed did the rest of the work for him.
 
 Wren went down hard on her shoulder and came up with a fistful of snow and grit, and threw it, because it was what her hand had in it.
 

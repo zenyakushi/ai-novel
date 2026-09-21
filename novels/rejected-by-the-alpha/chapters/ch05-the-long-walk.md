@@ -4,13 +4,13 @@
 
 Garrick's hand stayed on her arm the whole way through the lower court, and not once did he tighten it.
 
-Wren counted that. It was a small thing, and she had nothing bigger left to hold.
+Wren counted that. His grip sat loose enough that she could feel her own pulse moving under it.
 
 Behind them the amphitheater emptied in a slow shuffling tide. Eight hundred wolves had watched the thread catch between her and their Alpha. Not one of them walked beside her now.
 
 The cold found her before the gate did. Her ceremony shift had been cut for standing still under torchlight, and the stone under her bare feet had been holding the night since dusk.
 
-Her hands had stopped shaking somewhere in the last corridor. She noticed it the way a person notices a sound that has stopped.
+Her hands had stopped shaking somewhere in the last corridor. She only found out because she went looking for it.
 
 She took the next step anyway. Then the one after it.
 
@@ -40,7 +40,9 @@ Garrick stopped three paces short.
 
 "She reaches the border," he said.
 
-"We have the order." The lead enforcer did not look at him. He looked at her collarbone, the way the visiting Alphas had.
+"We have the order." The lead enforcer did not look at him. He looked at her collarbone instead.
+
+The visiting Alphas had looked there too.
 
 Garrick's fingers stayed where they were a moment past the point where they should have opened.
 
@@ -62,7 +64,7 @@ His jaw worked. He did not answer, and the enforcer's hand closed around her arm
 
 They walked faster than Garrick had.
 
-The road past the gate stopped being a road within a mile, and after that it was frozen cart ruts and then it was nothing, only the pale line where feet had gone before hers. Snow started somewhere in the second mile, fine and dry, more like sand than weather.
+The road past the gate stopped being a road within a mile, and after that it was frozen cart ruts and then it was nothing, only the pale line where feet had gone before hers. Snow started somewhere in the second mile, fine and dry, hissing along the ruts instead of settling into them.
 
 Nobody spoke. The enforcers had the easy silence of men doing an errand they had done before.
 
@@ -84,7 +86,7 @@ Her chest had been hollow since the platform. This was the first thing that had 
 
 The last checkpoint was a low post of grey stone with the Dominion's mark cut into the face of it, and a brazier beside it that had gone out long enough ago to have snow in the ashes.
 
-One of the enforcers put a hand flat on the post as he passed, the way a man touches a doorframe on his way out of a house.
+One of the enforcers put a hand flat on the post as he passed. He did not look at it while he did it.
 
 Past it, the ground fell away into scrub and black trees, and the snow came off the open ground sideways.
 
@@ -98,7 +100,9 @@ Her eyes kept trying to find an edge out there and kept coming back with nothing
 
 Wren stopped and turned.
 
-He was not looking at her. He had drawn the other three in close around him, heads down, and his voice had dropped into the register men use when a thing has already been decided and they are only settling the shape of it.
+He was not looking at her. He had drawn the other three in close around him, heads down, and his voice had dropped under the wind.
+
+Not arguing. Arranging.
 
 The wind took most of it. She caught three words whole.
 
@@ -106,4 +110,4 @@ The wind took most of it. She caught three words whole.
 
 The tall one's eyes came up to her and went away again. "And if she is found?"
 
-"The Wilds took her." The lead enforcer said it flatly, like a line he had been handed rather than one he had thought of. "That is all that goes in the file."
+"The Wilds took her." The lead enforcer had the words ready, flat and unweighted, with no part of himself in them. "That is all that goes in the file."
