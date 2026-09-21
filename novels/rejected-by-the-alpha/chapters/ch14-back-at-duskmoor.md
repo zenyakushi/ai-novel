@@ -166,6 +166,6 @@ Kieran raised his head.
 
 The lamps went on making their small noise. Kieran heard his own blood in his ears, too loud for a room with two men standing quietly in it.
 
-Kieran looked down at the ledger, at the unbroken run of dates in a careful hand, at the absence sitting in it where nothing at all was showing.
+He looked down at the ledger, at the unbroken run of dates in a careful hand, at the absence sitting in it where nothing at all was showing.
 
 Someone had known there would be a record worth taking before there was a ceremony to make one.
