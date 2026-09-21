@@ -110,3 +110,41 @@ above as the live Story-State Ledger. Deltas resume from Chapter 7.
 * A sealed mark is beyond challenge. No pack owes a branded wolf shelter or hearth, and any pack crossing her path must report the sighting rather than offer quarter.
 * The warning-mark is recognized on sight and predates Wren's case.
 * The Wilds are lawless country past the border, not a wall or a boundary feature.
+
+---
+
+## Chapter 7 delta
+
+* New character on page: Archon Malrick Veyra, at the Sanctum Spire. He reads the morning returns standing at a window slit because the angle makes poor penmanship obvious. Thirty-one years in the post.
+* Locked in: the enforcer captain filed Wren's death as exposure and closed the file the same hour he opened it. Veyra caught the arithmetic. The border road is nine miles, they left an hour past midnight, and the filing arrived at dawn, which does not allow time to walk her out, wait, and return.
+* New: the Bloodline Registry entry reads "Ashveil, W. Duskmoor. Maternal line unverified. Flagged pending Rite." Veyra set that flag himself nineteen years ago. He has set four hundred and six such flags in his career and says three ever mattered.
+* New mechanic: Veyra distinguishes a common bond, which flickers and dies, from one that ignites, holds, and has to be cut. He calls the second an event, and an event that produces no detail in its paperwork is what makes him doubt the report.
+* New: he commended the enforcers in writing, to be read aloud to other companies, specifically so they would feel settled and not suspect they were being checked.
+* Cliffhanger, locked in: he sent for his own tracker, Ilsa, by the east stair rather than the registry floor, sealed the order with an unwarmed ring so the mark is hard to read, and ordered the Duskmoor file left closed because closed files are not reviewed.
+* New named characters: Sound (Veyra's clerk), Ilsa (Veyra's personal tracker, not yet on page).
+
+## Chapter 8 delta
+
+* Locked in: Wren survived the night in the snow with a wound along her ribs and a blow to the back of the skull. The enforcers left without confirming the kill.
+* MAJOR power beat: her own pulse slowed toward death in the expected order while the second pulse did not change its pace by a single beat. Snow stopped melting on her skin, and her fingers still moved after hours of exposure. She registers all of this as wrong and cannot explain any of it.
+* New: Wren consciously appealed to the second pulse for the first time, telling it to stay. She has spent nineteen years wanting it gone.
+* New: she recalls the lead enforcer's face at the moment his command failed and identifies the expression as fear rather than anger. She cannot reconcile a grown enforcer being afraid of her.
+* Cliffhanger: a single set of footsteps came down the slope. Four had gone up. One is worse, because one means someone sent to verify.
+
+## Chapter 9 delta
+
+* Locked in: Tamsin found Wren and dragged her to a turf-and-timber hut somewhere past the border. Tamsin is not young, and the drag cost her.
+* New: Tamsin already knew Wren's name before it was given, saying word crosses the border faster than people do, and refusing to say from whom. Wren notes the answer is a deflection.
+* New: the rib wound took fourteen stitches. The head injury cannot be treated, only watched.
+* New world rule, from Tamsin: the Sanctum has never once come back to check on an exile in nineteen years. She calls that the one mercy in how they do it, because they cannot be bothered.
+* New: the hut has one room and three bars on the door, which is two more than weather requires.
+* Cliffhanger, MAJOR: cleaning upward toward the collarbone, Tamsin found something in the skin beneath the fresh brand and went completely still. She asked how long Wren has had what is under it. Wren has never looked.
+
+## Chapter 10 delta
+
+* Locked in: Tamsin refused to explain what is beneath the brand, and closed the subject without ever refusing outright. Wren recognizes the technique because she has used it her whole life.
+* New: Tamsin checked the mark on every dressing change and went still each time. She watches the door when the wind changes. She stood over the sleeping Wren once without acting, which Wren reads as someone deciding something about a person who cannot yet be asked.
+* New: Tamsin has lived in the Wilds nineteen years, the same span as Wren's life and the same span as the registry flag.
+* MAJOR, locked in: in fever Wren spoke the word "Emberveil" aloud, in a voice using her mouth without her choosing the words. She has never heard the word and does not understand it.
+* MAJOR relationship beat: Tamsin dropped what she was holding, seized Wren by the shoulders hard enough to bruise, and demanded to know who had said it to her. All the color went out of her face and her hands shook. Nothing else in nineteen years has produced that reaction.
+* Cliffhanger: Tamsin went to the door and barred it.

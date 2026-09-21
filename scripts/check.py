@@ -117,7 +117,7 @@ def check_chapter(path, dual_pov_started):
     # Dialogue is exempt: "It ends the way it always ends" is how a person
     # talks, not narration stepping back to explain itself.
     narration = re.sub(r'"[^"]*"', "", body)
-    gloss = re.findall(r"the way [a-z]|, like [a-z]|more like [a-z ]{2,30} than|"
+    gloss = re.findall(r"the (?:same )?way [a-z]|, like [a-z]|more like [a-z ]{2,30} than|"
                        r"register [a-z ]{2,30} use when", narration, re.I)
     if len(gloss) > 2:
         errs.append(f"{len(gloss)} gloss-simile constructions (max 2): "
@@ -153,6 +153,14 @@ def check_chapter(path, dual_pov_started):
     for m in re.finditer(r"\b(?:could|might|may) (?:potentially|possibly|perhaps)\b|"
                          r"\b(?:somewhat|rather|quite) \w+ly\b", body, re.I):
         warns.append(f"stacked qualifier: {m.group(0)!r}")
+
+    # House spelling. The novel is US spelled (color, realize, toward), so a
+    # stray British variant is an inconsistency rather than a choice.
+    for bad, good in (("grey", "gray"), ("colour", "color"), ("realise", "realize"),
+                      ("towards", "toward"), ("favour", "favor")):
+        n = len(re.findall(rf"\b{bad}\b", body, re.I))
+        if n:
+            errs.append(f"{n} use(s) of {bad!r}; house spelling is {good!r}")
 
     # Curly quotes, which Google Docs inserts on edit.
     if any(c in txt for c in (chr(0x201c), chr(0x201d), chr(0x2018), chr(0x2019))):
