@@ -26,7 +26,7 @@ The silence stretched long enough that Wren wondered if the ritual even had word
 
 "By the word of the Sanctum," he said. "And the law of the Rite."
 
-His voice came out steady. Too steady, like he was holding it in place with both hands the way he held the scroll.
+His voice came out steady. Too steady, pressed flat and held there, and his knuckles on the scroll had gone white with the same effort.
 
 Wren's fingers curled at her sides, nails biting half moons into her palms. She made herself watch his face instead of the parchment.
 
@@ -38,7 +38,7 @@ He stopped.
 
 Just for a second. But Wren saw it. His eyes came up off the scroll and found hers, and something moved behind them that wasn't duty.
 
-One hand slid an inch down the scroll's edge, like he meant to lower it and reach for her, before he caught himself and gripped the parchment tighter instead.
+One hand slid an inch down the scroll's edge, starting to lower it, starting toward her, before he caught himself and gripped the parchment tighter instead.
 
 "Kieran." Yseult's voice, low, a warning dressed up as a prompt.
 
@@ -50,7 +50,7 @@ His mouth opened again and no sound came out the first time. Yseult's chin dippe
 
 Somewhere in the tiers, a single voice broke free of the hush. "No." It was swallowed instantly by hundreds more, but Wren heard it.
 
-Somewhere behind Kieran, Lira's hand came up over her own mouth. Garrick didn't move at all, like moving might make it real.
+Somewhere behind Kieran, Lira's hand came up over her own mouth. Garrick didn't move at all. Not his hands, not his eyes, not one part of him.
 
 The thread between them went white.
 
@@ -72,13 +72,13 @@ Her ears rang too loud to sort any of it out.
 
 Beneath the pain, something else stirred. A second pulse, low in her chest, the one she'd spent her whole life pretending not to feel.
 
-It had never moved like this before. It moved now, hard and fast, like something knocking to get out from the inside.
+It had never moved like this before. It moved now, hard and fast, knocking at her ribs from the inside.
 
 Wren pressed a hand flat over her sternum, gasping against the stone under her palms. Her vision kept sliding sideways, the torches smearing into long orange streaks, the taste of copper rising at the back of her throat.
 
 She scanned what little of the crowd she could still see through the blur, some old reflex hunting for a face that might help. She didn't find one.
 
-Through the ringing she caught Garrick's arm shoot toward Kieran again, the same steadying grab as before, like he thought his Alpha might go down too.
+Through the ringing she caught Garrick's arm shoot toward Kieran again, the same steadying grab as before, bracing for an Alpha who might go down too.
 
 Kieran didn't move. He stood frozen at the platform's edge, the scroll hanging loose from one hand, staring down at her like he'd forgotten the rest of the ritual existed.
 
@@ -88,7 +88,7 @@ Kieran didn't move. He stood frozen at the platform's edge, the scroll hanging l
 
 For half a second, before Yseult stepped between them, Kieran's throat moved like he was swallowing something he couldn't say. His hand tightened on the scroll until the parchment creased.
 
-Lira had started forward too, robes bunched in one fist, before a guard's arm blocked her path without a word. She didn't try again. She just stood there, watching Wren the way you watch something falling that you can't reach in time.
+Lira had started forward too, robes bunched in one fist, before a guard's arm blocked her path without a word. She didn't try again. She just stood there and watched, and didn't look away once.
 
 Then heat bloomed at her collarbone, sharp enough to cut through everything else.
 
@@ -102,7 +102,7 @@ Wren dug her nails into the stone and tried to crawl backward out of the light. 
 
 The pain climbed from her collarbone up into her throat. For a moment she couldn't tell if the smoke was rising off her own skin or if her eyes had simply stopped working right.
 
-Beneath the burn, the second pulse kept beating, faster now, like it recognized what was happening to her and wanted out before the mark finished closing over it.
+Beneath the burn, the second pulse kept beating, faster now, throwing itself at the underside of the mark before it could finish closing over.
 
 Kieran was still watching her. Even with the mark spreading under her skin in front of the whole kingdom, he hadn't looked away once.
 

@@ -68,7 +68,7 @@ A few steps back, a woman with the same sharp Draven cheekbones watched the crow
 
 Behind the three of them, seated apart on a raised bench of his own, King Aldric watched the platform with the stillness of a man who'd sat through this ceremony a hundred times before.
 
-Tonight Kieran wore ceremonial black, a torque of hammered silver at his throat. He wasn't looking at the crowd the way an Alpha usually looked at a crowd, cataloguing, assessing.
+Tonight Kieran wore ceremonial black, a torque of hammered silver at his throat. An Alpha looked at a crowd to catalogue it, to price it. Kieran wasn't doing either.
 
 He was looking at nothing. Or performing looking at nothing. Wren couldn't tell which, and not being able to tell needled at her.
 
@@ -104,13 +104,13 @@ It didn't fade. It stretched.
 
 Straight toward the head of the Draven line. Straight toward Kieran.
 
-He went rigid, like something had grabbed him by the spine. The same thread lit under his own skin, racing up from nowhere, and across the amphitheater, eight hundred wolves came up out of their seats at once.
+He went rigid, spine locking, shoulders driven back, nothing in it he had chosen. The same thread lit under his own skin, racing up from nowhere, and across the amphitheater, eight hundred wolves came up out of their seats at once.
 
 "That's not..." someone near the front started, and didn't finish.
 
 A voice cracked out her name from somewhere in the crowd, high and disbelieving. Wren couldn't turn to find who it belonged to.
 
-Yseult's mouth flattened for one second before she caught it. Her face went smooth again, like it had never slipped.
+Yseult's mouth flattened for one second before she caught it. Her face went smooth again. Anyone who looked a moment later would have found nothing there at all.
 
 Kieran was staring at Wren now. Really staring, jaw slack, one hand rising halfway toward her before he caught himself and let it fall.
 

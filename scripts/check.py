@@ -114,8 +114,11 @@ def check_chapter(path, dual_pov_started):
     # he had been handed"). Once or twice reads as voice. Seven times in 1,100
     # words, which is what Chapter 5 shipped with on its first pass, reads as a
     # tic. The project memory flags this pattern explicitly.
+    # Dialogue is exempt: "It ends the way it always ends" is how a person
+    # talks, not narration stepping back to explain itself.
+    narration = re.sub(r'"[^"]*"', "", body)
     gloss = re.findall(r"the way [a-z]|, like [a-z]|more like [a-z ]{2,30} than|"
-                       r"register [a-z ]{2,30} use when", body, re.I)
+                       r"register [a-z ]{2,30} use when", narration, re.I)
     if len(gloss) > 2:
         errs.append(f"{len(gloss)} gloss-simile constructions (max 2): "
                     + "; ".join(repr(g.strip()) for g in gloss[:4]))

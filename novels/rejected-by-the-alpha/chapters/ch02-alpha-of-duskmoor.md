@@ -32,7 +32,7 @@ The servants filed out first. Garrick caught Kieran's eye on his way past, somet
 
 Kieran straightened out of habit more than respect. "Father."
 
-Aldric circled him once, the way a man circles a horse before a sale. "Tonight matters more than most."
+Aldric circled him once, slow and appraising, and did not trouble to hide that he was doing it. "Tonight matters more than most."
 
 "Every Rite matters."
 
@@ -102,7 +102,7 @@ Then Yseult called a name he didn't recognize. A slight girl in a ceremonial wra
 
 He didn't understand it yet. He just felt it, a hook beneath his sternum, yanking.
 
-Light split open across her collarbone, gold-white and violent, nothing like the flicker he'd watched all night. It didn't fade the way it should have.
+Light split open across her collarbone, gold-white and violent, nothing like the flicker he'd watched all night. It didn't fade. It should have faded.
 
 He'd watched close to forty of these tests light up or fizzle since he was young enough to be dragged along by his father. He'd never seen anything move like this.
 
