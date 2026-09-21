@@ -64,7 +64,7 @@ They walked faster than Garrick had.
 
 The road past the gate stopped being a road within a mile, and after that it was frozen cart ruts and then it was nothing, only the pale line where feet had gone before hers. Snow started somewhere in the second mile, fine and dry, more like sand than weather.
 
-Nobody spoke. The enforcers had the easy silence of men doing a errand they had done before.
+Nobody spoke. The enforcers had the easy silence of men doing an errand they had done before.
 
 Her feet stopped reporting back to her somewhere past the third mile. She thought about that instead of thinking about the rest, and it worked for a while.
 
