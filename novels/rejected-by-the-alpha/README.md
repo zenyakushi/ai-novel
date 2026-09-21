@@ -12,9 +12,17 @@ Paranormal romance / shifter fantasy with a political-thriller spine. 350 chapte
 | `chapters/` | Finalized chapter prose, one file per chapter | Per chapter |
 | `ledger.md` | Story-State Ledger: per-chapter deltas, plus Master Ledger Updates at checkpoints | Every chapter |
 
-The governing process lives in `../sop/novel_sop.md` (Parts A through F). The
+The governing process lives in `../../sop/novel_sop.md` (Parts A through F). The
 per-chapter system prompt and Context Stack are assembled from Part C each time;
 there is no separate stored copy, deliberately, so there is only one source.
+
+`cast.json` maps every POV-capable character to `she` or `he`. The automated POV
+check reads it, so a new POV character must be added there before that character
+can hold a chapter.
+
+Before committing anything here, run `python3 ../../scripts/check.py .` from this
+folder, or `python3 scripts/check.py novels/rejected-by-the-alpha` from the repo
+root. See `../../WORKFLOW.md` for the Google Docs review loop.
 
 ## Current state
 
@@ -47,11 +55,8 @@ No header on single-POV chapters. Once dual POV starts, every chapter carries a
 
 ## Outstanding
 
-- Nothing dash-related. The whole repository is clean of em dashes, en dashes, and
-  double hyphens used as dashes. Re-check with
-  `grep -rn -e $'\u2014' -e $'\u2013' -e ' [-][-] ' --exclude-dir=.git .` before any
-  batch hand-off. It exits 1 when the repository is clean. The escapes and the
-  bracket expression keep this file from matching its own check.
+- Nothing dash-related. The whole repository is clean. Re-check with
+  `python3 scripts/check.py --repo` before any batch hand-off.
 - Two displaced chapters from the 1 through 6 compression still need final placement.
 - Three allied pack threads (Hollow Ridge / Rurik Voss, Fenmoor / Maeve Renn,
   Stonevale / Torvin Sedge) and the backstory integrations (Kessa Vane at Ch. 198,
