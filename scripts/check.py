@@ -109,6 +109,62 @@ def check_chapter(path, dual_pov_started):
     if n_notx > 2:
         warns.append(f"{n_notx} \"it wasn't X, it was Y\" constructions (max 2)")
 
+    # Gloss-simile tic: a concrete beat followed by an explanatory comparison
+    # ("the way a person notices...", "more like sand than weather", "like a line
+    # he had been handed"). Once or twice reads as voice. Seven times in 1,100
+    # words, which is what Chapter 5 shipped with on its first pass, reads as a
+    # tic. The project memory flags this pattern explicitly.
+    # Dialogue is exempt: "It ends the way it always ends" is how a person
+    # talks, not narration stepping back to explain itself.
+    narration = re.sub(r'"[^"]*"', "", body)
+    gloss = re.findall(r"the way [a-z]|, like [a-z]|more like [a-z ]{2,30} than|"
+                       r"register [a-z ]{2,30} use when", narration, re.I)
+    if len(gloss) > 2:
+        errs.append(f"{len(gloss)} gloss-simile constructions (max 2): "
+                    + "; ".join(repr(g.strip()) for g in gloss[:4]))
+    elif len(gloss) == 2:
+        warns.append("2 gloss-simile constructions, at the limit")
+
+    # --- patterns adapted from the humanizer skill (github.com/blader/humanizer) ---
+    # Only the ones that apply to serialized fiction. Its "one-line closers" and
+    # "decorative formatting" rules are skipped deliberately: short paragraphs and
+    # punchy chapter endings are required by the mobile-serial format, not tells.
+
+    # Anaphora: three or more consecutive paragraphs opening the same way.
+    paras = [x.strip() for x in body.split("\n") if x.strip()]
+    opens = [" ".join(x.split()[:2]).strip('"').lower() for x in paras]
+    run = 1
+    for a, b in zip(opens, opens[1:]):
+        run = run + 1 if (a == b and a) else 1
+        if run >= 3:
+            errs.append(f"{run} consecutive paragraphs opening with {a!r}")
+            break
+
+    # Shallow "-ing" riders that assert meaning instead of showing it.
+    for m in re.finditer(r", (symboliz|reflect|showcas|underscor|highlight|emphasiz|"
+                         r"signal|mark|cement|affirm)\w*ing\b[^.]{0,40}", body, re.I):
+        errs.append(f"shallow -ing rider: {m.group(0).strip()!r}")
+
+    # Avoiding is/are/has with inflated substitutes.
+    for m in re.finditer(r"\b(serves as|stands as|acts as|boasts of|features a)\b", body, re.I):
+        errs.append(f"inflated substitute for is/are/has: {m.group(0)!r}")
+
+    # Stacked qualifiers.
+    for m in re.finditer(r"\b(?:could|might|may) (?:potentially|possibly|perhaps)\b|"
+                         r"\b(?:somewhat|rather|quite) \w+ly\b", body, re.I):
+        warns.append(f"stacked qualifier: {m.group(0)!r}")
+
+    # Curly quotes, which Google Docs inserts on edit.
+    if any(c in txt for c in (chr(0x201c), chr(0x201d), chr(0x2018), chr(0x2019))):
+        errs.append("curly quotes present; run scripts/from_docs.py to normalize")
+
+    # The ", adjective and adjective" modifier tail. Ordinary English in ones and
+    # twos, a signature in fours, so this warns rather than blocks.
+    tails = re.findall(r", [a-z]+ and [a-z]+[,.]", body)
+    if len(tails) > 3:
+        warns.append(f"{len(tails)} ', adjective and adjective' tails: "
+                     + "; ".join(repr(x.strip()) for x in tails[:4]))
+
     return wc, errs, warns
 
 

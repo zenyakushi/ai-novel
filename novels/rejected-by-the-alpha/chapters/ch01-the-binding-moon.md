@@ -48,7 +48,7 @@ She'd never told anyone. Not the girl beside her. Not her mother, before she die
 
 Especially not the Sanctum registrars who came through the pack lands every few years with their ledgers and their soft, searching questions.
 
-“Stay unremarkable”. Her mother's voice, the same two words every time.
+Stay unremarkable. Her mother's voice, the same two words every time.
 
 Whatever you feel. Whatever you notice about yourself that the others don't have. Bury it.
 
@@ -68,7 +68,7 @@ A few steps back, a woman with the same sharp Draven cheekbones watched the crow
 
 Behind the three of them, seated apart on a raised bench of his own, King Aldric watched the platform with the stillness of a man who'd sat through this ceremony a hundred times before.
 
-Tonight Kieran wore ceremonial black, a torque of hammered silver at his throat. He wasn't looking at the crowd the way an Alpha usually looked at a crowd, cataloguing, assessing.
+Tonight Kieran wore ceremonial black, a torque of hammered silver at his throat. An Alpha looked at a crowd to catalogue it, to price it. Kieran wasn't doing either.
 
 He was looking at nothing. Or performing looking at nothing. Wren couldn't tell which, and not being able to tell needled at her.
 
@@ -104,17 +104,17 @@ It didn't fade. It stretched.
 
 Straight toward the head of the Draven line. Straight toward Kieran.
 
-He went rigid, like something had grabbed him by the spine. The same thread lit under his own skin, racing up from nowhere, and across the amphitheater, eight hundred wolves came up out of their seats at once.
+He went rigid, his spine pulling him straight before he had any say in it. The same thread lit under his own skin, racing up from nowhere, and across the amphitheater, eight hundred wolves came up out of their seats at once.
 
 "That's not..." someone near the front started, and didn't finish.
 
 A voice cracked out her name from somewhere in the crowd, high and disbelieving. Wren couldn't turn to find who it belonged to.
 
-Yseult's mouth flattened for one second before she caught it. Her face went smooth again, like it had never slipped.
+Yseult's mouth flattened for one second before she caught it. Her face went smooth again. Anyone who looked a moment later would have found nothing there at all.
 
 Kieran was staring at Wren now. Really staring, jaw slack, one hand rising halfway toward her before he caught himself and let it fall.
 
-Behind him, a man in Sanctum grey leaned toward King Aldric's ear. Aldric's jaw went tight. He didn't look surprised.
+Behind him, a man in Sanctum gray leaned toward King Aldric's ear. Aldric's jaw went tight. He didn't look surprised.
 
 He looked like a man who'd already known what was coming. Something about his stillness snagged harder than the noise around it, and Wren's eyes stayed on him a beat too long before the thread pulled her attention back to Kieran. 
 

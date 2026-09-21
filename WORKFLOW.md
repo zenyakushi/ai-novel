@@ -48,7 +48,22 @@ Fix everything blocking before going further.
 ### 2. Publish for review (assistant)
 
 Create a Doc in the novel's Drive folder, titled `Ch NNN - Title`, containing
-the chapter text. Give the author the link.
+the chapter text.
+
+**Publish only once the chapter has converged.** Because the connector cannot
+write into an existing doc, every revision means trashing the old doc and
+creating a new one, which changes the URL and leaves dead links behind. So
+finish the gates, do a full read-through, and settle any craft notes first.
+Chapters 5 and 6 were published three times over before this rule existed.
+
+**Give the author the folder link, not the per-chapter link**, as the stable
+entry point. The folder always lists the current docs, so it survives
+republishing:
+
+    https://drive.google.com/drive/folders/1gv1IjYCdpfvTvlGgxf3jd63xSCenbZM7
+
+Per-chapter links are fine for pointing at one specific chapter, but they go
+stale the moment that chapter is revised.
 
 ### 3. Review (author)
 
