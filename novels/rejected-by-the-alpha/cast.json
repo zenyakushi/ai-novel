@@ -1,10 +1,27 @@
 {
   "_comment": "Pronoun map for the automated POV check in scripts/check.py. Add every character who can hold a POV chapter.",
   "pronouns": {
-    "Wren": "she", "Lira": "she", "Tamsin": "she", "Yseult": "she",
-    "Kessa": "she", "Maren": "she", "Cole": "she", "Isolde": "she",
-    "Kieran": "he", "Cassian": "he", "Aldric": "he", "Veyra": "he",
-    "Garrick": "he", "Kade": "he", "Oskar": "he", "Vex": "he",
-    "Rurik": "he", "Torvin": "he"
+    "Wren": "she",
+    "Lira": "she",
+    "Tamsin": "she",
+    "Yseult": "she",
+    "Kessa": "she",
+    "Maren": "she",
+    "Cole": "she",
+    "Isolde": "she",
+    "Kieran": "he",
+    "Cassian": "he",
+    "Aldric": "he",
+    "Veyra": "he",
+    "Garrick": "he",
+    "Kade": "he",
+    "Oskar": "he",
+    "Vex": "he",
+    "Rurik": "he",
+    "Torvin": "he",
+    "Ilsa": "she",
+    "Sound": "he",
+    "Oren": "he",
+    "Scout": "he"
   }
 }

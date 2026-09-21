@@ -43,17 +43,32 @@ def check_chapter(path, dual_pov_started):
         errs.append(f"filename says ch{int(m_file.group(1))}, heading says Chapter {int(m_head.group(1))}")
 
     # --- POV header rule ---------------------------------------------------
-    has_hdr = bool(re.search(r"^\\\[(\w+)'s POV\\\]", txt, re.M))
+    # A chapter may carry more than one POV section. The bible permits two
+    # occasionally, provided each switch is marked, so each section is measured
+    # against its own header rather than the chapter being averaged into mush.
+    hdrs = [(m.group(1), m.start()) for m in
+            re.finditer(r"^\\\[(\w+)'s POV\\\]", txt, re.M)]
+    has_hdr = bool(hdrs)
     if dual_pov_started and not has_hdr:
         errs.append("dual POV has started but this chapter has no POV header")
-    if has_hdr:
-        pov = re.search(r"^\\\[(\w+)'s POV\\\]", txt, re.M).group(1)
+    for _i, (pov, _start) in enumerate(hdrs):
+        _end = hdrs[_i + 1][1] if _i + 1 < len(hdrs) else len(txt)
+        section = txt[_start:_end]
+        # NOTE: a separate name. Rebinding `body` here would silently narrow every
+        # downstream check to the last POV section, which is invisible on
+        # single-POV chapters and wrong on every other one.
+        sect_body = "\n".join(l for l in section.split("\n")
+                               if not l.startswith("# Chapter")
+                               and not re.match(r"^\\\[.*POV\\\]", l))
         # Third-person limited: the POV character's body and mind get possessive
         # interiority ("her chest", "his thoughts"); everyone else is observed from
         # outside. Mention counts do NOT work here, because a POV character often
         # spends the chapter watching someone else. This is the check that would
         # have caught Chapter 4 shipping as Kieran's POV over Wren's prose.
-        INNER = r"(?:chest|pulse|throat|knees|stomach|skin|hands?|mind|thoughts?|breath|heart|eyes|ribs|spine|jaw)"
+        # Only nouns that cannot be observed from outside. Hands, eyes and faces
+        # belong to whoever the POV character is watching, which produced a false
+        # positive on chapter 13, where Wren watches six men from a ridge.
+        INNER = r"(?:chest|pulse|throat|stomach|mind|thoughts?|breath|heart|ribs|blood|spine|skin)"
         cast = {}
         cj = os.path.join(os.path.dirname(os.path.dirname(path)), "cast.json")
         if os.path.exists(cj):
@@ -63,8 +78,8 @@ def check_chapter(path, dual_pov_started):
         if pron is None:
             warns.append(f"{pov} is not in cast.json, so the POV check could not run")
         else:
-            mine  = len(re.findall(rf"\b{'her' if pron=='she' else 'his'} {INNER}", body, re.I))
-            other = len(re.findall(rf"\b{'his' if pron=='she' else 'her'} {INNER}", body, re.I))
+            mine  = len(re.findall(rf"\b{'her' if pron=='she' else 'his'} {INNER}", sect_body, re.I))
+            other = len(re.findall(rf"\b{'his' if pron=='she' else 'her'} {INNER}", sect_body, re.I))
             if mine == 0 and other == 0:
                 warns.append("no possessive interiority found; POV could not be verified")
             elif other > mine:
@@ -97,7 +112,11 @@ def check_chapter(path, dual_pov_started):
             warns.append(f"near-miss substitute {m.group(0)!r}")
 
     # --- paragraph length --------------------------------------------------
+    # A line wrapped in asterisks is a quoted document (a register entry, a filing),
+    # not a prose paragraph, so the sentence cap does not apply to it.
     for i, p in enumerate(l for l in body.split("\n") if l.strip()):
+        if p.strip().startswith("*") and p.strip().endswith("*"):
+            continue
         if sentences(p) > 3:
             errs.append(f"paragraph {i+1} has {sentences(p)} sentences (max 3): {p[:60]}...")
 
@@ -117,7 +136,7 @@ def check_chapter(path, dual_pov_started):
     # Dialogue is exempt: "It ends the way it always ends" is how a person
     # talks, not narration stepping back to explain itself.
     narration = re.sub(r'"[^"]*"', "", body)
-    gloss = re.findall(r"the way [a-z]|, like [a-z]|more like [a-z ]{2,30} than|"
+    gloss = re.findall(r"the (?:same )?way [a-z]|, like [a-z]|more like [a-z ]{2,30} than|"
                        r"register [a-z ]{2,30} use when", narration, re.I)
     if len(gloss) > 2:
         errs.append(f"{len(gloss)} gloss-simile constructions (max 2): "
@@ -153,6 +172,14 @@ def check_chapter(path, dual_pov_started):
     for m in re.finditer(r"\b(?:could|might|may) (?:potentially|possibly|perhaps)\b|"
                          r"\b(?:somewhat|rather|quite) \w+ly\b", body, re.I):
         warns.append(f"stacked qualifier: {m.group(0)!r}")
+
+    # House spelling. The novel is US spelled (color, realize, toward), so a
+    # stray British variant is an inconsistency rather than a choice.
+    for bad, good in (("grey", "gray"), ("colour", "color"), ("realise", "realize"),
+                      ("towards", "toward"), ("favour", "favor")):
+        n = len(re.findall(rf"\b{bad}\b", body, re.I))
+        if n:
+            errs.append(f"{n} use(s) of {bad!r}; house spelling is {good!r}")
 
     # Curly quotes, which Google Docs inserts on edit.
     if any(c in txt for c in (chr(0x201c), chr(0x201d), chr(0x2018), chr(0x2019))):
