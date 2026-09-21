@@ -43,11 +43,23 @@ def check_chapter(path, dual_pov_started):
         errs.append(f"filename says ch{int(m_file.group(1))}, heading says Chapter {int(m_head.group(1))}")
 
     # --- POV header rule ---------------------------------------------------
-    has_hdr = bool(re.search(r"^\\\[(\w+)'s POV\\\]", txt, re.M))
+    # A chapter may carry more than one POV section. The bible permits two
+    # occasionally, provided each switch is marked, so each section is measured
+    # against its own header rather than the chapter being averaged into mush.
+    hdrs = [(m.group(1), m.start()) for m in
+            re.finditer(r"^\\\[(\w+)'s POV\\\]", txt, re.M)]
+    has_hdr = bool(hdrs)
     if dual_pov_started and not has_hdr:
         errs.append("dual POV has started but this chapter has no POV header")
-    if has_hdr:
-        pov = re.search(r"^\\\[(\w+)'s POV\\\]", txt, re.M).group(1)
+    for _i, (pov, _start) in enumerate(hdrs):
+        _end = hdrs[_i + 1][1] if _i + 1 < len(hdrs) else len(txt)
+        section = txt[_start:_end]
+        # NOTE: a separate name. Rebinding `body` here would silently narrow every
+        # downstream check to the last POV section, which is invisible on
+        # single-POV chapters and wrong on every other one.
+        sect_body = "\n".join(l for l in section.split("\n")
+                               if not l.startswith("# Chapter")
+                               and not re.match(r"^\\\[.*POV\\\]", l))
         # Third-person limited: the POV character's body and mind get possessive
         # interiority ("her chest", "his thoughts"); everyone else is observed from
         # outside. Mention counts do NOT work here, because a POV character often
@@ -66,8 +78,8 @@ def check_chapter(path, dual_pov_started):
         if pron is None:
             warns.append(f"{pov} is not in cast.json, so the POV check could not run")
         else:
-            mine  = len(re.findall(rf"\b{'her' if pron=='she' else 'his'} {INNER}", body, re.I))
-            other = len(re.findall(rf"\b{'his' if pron=='she' else 'her'} {INNER}", body, re.I))
+            mine  = len(re.findall(rf"\b{'her' if pron=='she' else 'his'} {INNER}", sect_body, re.I))
+            other = len(re.findall(rf"\b{'his' if pron=='she' else 'her'} {INNER}", sect_body, re.I))
             if mine == 0 and other == 0:
                 warns.append("no possessive interiority found; POV could not be verified")
             elif other > mine:
@@ -100,7 +112,11 @@ def check_chapter(path, dual_pov_started):
             warns.append(f"near-miss substitute {m.group(0)!r}")
 
     # --- paragraph length --------------------------------------------------
+    # A line wrapped in asterisks is a quoted document (a register entry, a filing),
+    # not a prose paragraph, so the sentence cap does not apply to it.
     for i, p in enumerate(l for l in body.split("\n") if l.strip()):
+        if p.strip().startswith("*") and p.strip().endswith("*"):
+            continue
         if sentences(p) > 3:
             errs.append(f"paragraph {i+1} has {sentences(p)} sentences (max 3): {p[:60]}...")
 

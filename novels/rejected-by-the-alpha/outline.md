@@ -114,7 +114,7 @@ All 350 chapters, in 10 batches across 6 arcs. Canonical chapter numbering.
 **Ch. 16: "Recovery"**
 
 * Purpose: establish Tamsin's own history alongside Wren/Tamsin trust-building  
-* Key events: Wren regains strength; pressed, Tamsin admits she was exiled too, decades ago, for treating a rejected mate the Sanctum had ordered left to die. She's lived alone in the Wilds ever since.  
+* Key events: Wren regains strength; pressed, Tamsin admits she was exiled too, nineteen years ago, for treating a rejected mate the Sanctum had ordered left to die. She's lived alone in the Wilds ever since.  
 * Character development: Tamsin's guardedness reframed as hard-earned caution, not just temperament; Wren sees a possible future in her  
 * Cliffhanger: Tamsin agrees to explain the bigger history, but not tonight
 

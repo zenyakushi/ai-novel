@@ -175,3 +175,120 @@ above as the live Story-State Ledger. Deltas resume from Chapter 7.
 * MAJOR realization: Wren works out in four days what took Tamsin six years. Exile is not a sentence that someone might survive. It is a method, and it is not meant to work.
 * New: Wren notes she is cold but not suffering, and that her body is keeping pace with conditions that should be breaking it.
 * Cliffhanger, and a thread that points at Chapter 7: Wren asks what the Sanctum sends when it actually wants to find someone, rather than to tick a list. Tamsin answers that they send one. Neither of them knows Veyra has already dispatched Ilsa.
+
+## Chapter 14 delta
+
+* Locked in: Duskmoor returned to normal within four days and nobody mentioned the Rite in Kieran's hearing. The platform was scrubbed the same day, which Garrick says is in the rota.
+* New: Kieran confirmed to Garrick that the rejection scroll's wax seal was already broken and re-sealed when it reached his hand. Garrick had suspected and said nothing.
+* New character: Oren, the Duskmoor archivist, in post longer than Kieran has been alive.
+* Locked in: the Rite record was filed on the second and collected on the third by a courier carrying Sanctum authority, whom Oren did not know.
+* MAJOR, locked in: the collection was never entered in the archive ledger, and the page was written that way rather than altered. Oren was instructed on the FIRST, two days before the Rite took place, that the record would be collected and the collection was not to be entered.
+* Cliffhanger: someone knew there would be a record worth taking before there was a ceremony to make one.
+* Relationship beat: Garrick warns that nobody in the pack has asked a single question since the Rite, because they believe it is finished, and that the moment Kieran enters the archive everyone learns he does not.
+
+## Chapter 15 delta
+
+* New: Oren refused to name who instructed him, saying only that he has a daughter in the mill row. Kieran read that as a threat against the archivist and apologized for returning.
+* New world detail: the Sanctum Spire holds a duplicate of everything the Duskmoor archive holds, also under section four. Oren volunteered this unprompted and would not say more.
+* MAJOR, locked in: Lira overheard Aldric tell an archivist on the first of the month that a record would be collected and not entered. She has known something was being arranged for eleven days and did not go to Kieran because, as she puts it, he is his father's son and until now she had no way of knowing which of those two things he would be.
+* MAJOR: Lira copied roughly a third of the sealed Rite record by night on the second, before the courier came on the third. She is now an active covert ally, at direct personal risk.
+* MAJOR reveal, locked in: the copied fragment carries an annotation in a different hand. "Ashveil, W. Cross-ref. Reg. Bloodline: EMBERVEIL. Flag standing, nineteen yrs. Disposition per standing instruction."
+* Locked in: Kieran was raised on the lineages and can recite every ruling house and minor line. There is no Emberveil in any of them. Lira searched the household lineages, the treaty rolls, and the full First Howl liturgy and found not one mention.
+* New: the flag has stood nineteen years, meaning it was set in the year Wren was born, and the disposition followed a standing instruction rather than a decision made on the night.
+
+## Chapter 16 delta
+
+* Locked in: Tamsin was a pack healer before her exile, with an apprentice, a stipend, and a name known for forty miles. Her pack is not yet named.
+* MAJOR backstory, locked in: nineteen years ago a girl about Wren's age lit up for an Alpha's son, was halted by the Oracle, declared unfit, branded before her own pack, and marched to the border the same night. An unwritten instruction circulated among the healers that she was to be given no treatment, no shelter, and no report of either.
+* Locked in: the girl crawled back to the border ditch four days later with a septic brand. Tamsin brought her in, treated her for two days behind a shut door, and did not report it. The girl died on the third morning.
+* Locked in: Tamsin was taken before the body was cold, with no trial, on a charge of obstructing a lawful disposition. She was branded and exiled. Her collar has been buttoned in every scene since she was introduced.
+* New: the same pattern ran nineteen years ago that ran at Wren's Rite. A bond that lit too bright, an Oracle who halted it, a declaration of unfitness, and a verbal kill order that was never written down.
+* New: Wren is nineteen. Tamsin has been exiled nineteen years. Wren notices the pair and cannot make it lie flat. Tamsin says honestly that she has had nineteen years to decide whether it is coincidence and does not know, but has "the shape of a thing I was told once and didn't believe".
+* Cliffhanger: Tamsin agrees to give it to her, but not tonight.
+* OUTLINE DEVIATION: the outline says Tamsin was exiled "decades ago". The prose established nineteen years in Chapters 9 and 10 before this chapter was drafted, and nineteen is load-bearing now, because it matches Wren's age and the registry flag. Nineteen years is canonical. The outline entry should be corrected.
+
+## Chapter 17 delta
+
+* New lore, the sanctioned myth in full: wolves could not find each other and chose wrong for a hundred generations; Aluna grieved, opened her throat, and loosed the First Howl; where it touched two who belonged together it left a thread; at the moon's rite the thread shows itself. The closing doctrine is "The bond is the gift. The bond is not given to be questioned. What the bond joins, the Rite reveals, and what the Rite reveals, the Sanctum keeps."
+* New: after the gift, no wolf in the entire telling ever decides, refuses, or asks anything. Tamsin calls the closing line an administrative arrangement with a hymn round it.
+* MAJOR question raised: why does a goddess's gift have a procedure for cancellation? Yseult raised a hand and the bond obeyed her in front of eight hundred witnesses.
+* Character beat: Wren pushes back honestly, noting that convenient is not the same as false, and that the bond did work on her. Tamsin concedes both.
+* Cliffhanger: "That's the story they let us keep."
+
+## Chapter 18 delta
+
+* Source, locked in: everything Tamsin knows came from the dying girl in the store room nineteen years ago, as her grandmother's telling, given in pieces over two days. Tamsin did not believe it for eleven years.
+* MAJOR lore, the four pieces. One, a bloodline existed before the bond that could reach the moon directly, with no rite and no officiant. What exactly they could do did not survive; only the fact that they could. Two, no other house could do it, and every pack takes its legitimacy from the moon, so the line's existence was intolerable. The telling says they were keepers rather than rulers and it did not help them. Three, the other houses built the bond to replicate it, in a rite rather than in blood, because a rite needs an officiant and an officiant answers to someone and someone keeps the records. Four, the line was hunted, not in a war but across four hundred years of ceremonies, quiet dispositions, and children flagged before they could walk.
+* MAJOR mechanic: the Rite is a net. Every unmated wolf in the Dominion is required to stand on that platform at the same age, in front of witnesses, where the Sanctum can see. It genuinely finds mates, which is what makes it work as cover.
+* Character beat: Wren realizes her mother must have KNOWN what the Rite was, not merely feared the pack, and deliberately turns away from what that implies about her.
+* Cliffhanger, MAJOR: Tamsin says "Emberveil" aloud, confirming it as the name Wren spoke in her fever.
+
+## Chapter 19 delta
+
+* MAJOR power beat, first deliberate use: on open ground Wren stopped commanding the second pulse and followed it instead. It is not a pulse. It is the near end of something much larger that extends in a direction she has no word for. For roughly half a second it noticed her and turned, and it put her on the ground.
+* New mechanic: reaching for it requires listening rather than grabbing. Bracing prevents it. Nothing visible happens, no light and no thread.
+* Character beat, and a flaw activating: Wren was not frightened afterward. She was exhilarated and hungry, and immediately wanted to do it again. Tamsin refused and named the danger out loud, saying she would rather Wren knew it was happening while it was happening.
+* New: Tamsin pushed her to try precisely because the Sanctum will come regardless, that having been decided in a register before Wren could walk. The only open question is whether she is any use to herself when they arrive.
+* Cliffhanger, locked in: on the walk back Wren found one line of boot prints on a ridge that had been unbroken all winter. They came in along rock from the east, lay in a long disturbed patch where a body had waited, and went out the other way. They were not there on the walk up.
+
+## Chapter 20 delta
+
+* Locked in: the watcher was one man, positioned before first light, who walked on stone where he could and crossed open snow only where there was no alternative. He watched the entire attempt from four hundred paces.
+* MAJOR, locked in: his boot was mended, the sole sewn back on with a saddler's stitch. Sanctum boots are issued and replaced from stores, never mended. He is not Sanctum.
+* Character development: Wren had been operating on the belief that the world had exactly one shape, the Sanctum wanting her dead. Losing that costs her, because one enemy has a shape and habits Tamsin has spent nineteen years learning. Two means the Wilds are not a place with a danger in it.
+* New: Tamsin abandoned the hut permanently. Wren was surprised by the cost of leaving it after six weeks.
+* New: the scout felt the power at four hundred paces, through rock and snow, and went flat on his face involuntarily. He has run the border eleven years and does not frighten easily. He has no word for what it was.
+* MAJOR new character on page: Cassian Thorne, Alpha, at a camp in an old quarry. He identified the branded girl from the report alone, correctly guessing the mark was on her collarbone and fresh, before the scout mentioned it.
+* New: Cassian has tracked the Duskmoor branding. He notes it was the talk of four packs and then the talk of none, and says that is the part that always interests him.
+* New motive, locked in: Thornhollow has waited four generations for the Sanctum to make a mistake, which Cassian distinguishes explicitly from a cruelty. He believes he has found one.
+* POV note: this chapter carries two marked POV sections, Wren and the scout, which the bible permits occasionally.
+
+---
+
+## MASTER LEDGER UPDATE (checkpoint fired at Chapter 20)
+
+Second checkpoint. Consolidates Chapters 7 through 20 and supersedes the deltas
+above together with the Chapter 6 Master Ledger Update. Deltas resume at
+Chapter 21.
+
+**Wren, current position**
+
+* Alive, fully healed, six weeks past the border. Rib wound closed in fourteen hours and left a thin fading seam. Skull injury healed with no lasting effect.
+* Can reach the second pulse deliberately, once, at the cost of collapsing. Knows it is the near end of something far larger. Wants more of it, which Tamsin has named as the danger it is.
+* Proven resistant to a full Alpha command in front of four witnesses.
+* Knows the Emberveil name, the suppressed history in four pieces, and that the Rite is a net. Does not know about the Bloodline Registry, the annotation in the Rite record, or that Kieran is looking.
+* Has left Tamsin's hut permanently. Carries a knife and knows the four unwritten laws.
+
+**What the Sanctum has done and what can be proved**
+
+* The rejection was arranged in advance, the scroll re-sealed before Kieran received it, and the kill order given verbally so it would not exist in writing.
+* The Rite record was collected the day after filing and the collection was never entered, on an instruction given two days BEFORE the ceremony.
+* The registry flag on Wren was set in the year of her birth and stood nineteen years, with disposition following a standing instruction.
+* Veyra does not believe the enforcers' report and has sent Ilsa privately to verify. Nobody in the field knows she exists.
+* At least two enforcers carry injuries Wren gave them, which no clean report accounts for.
+* Nineteen years ago the identical pattern was run on another girl, who died, and the healer who treated her was exiled for it.
+
+**Kieran, current position**
+
+* Knows the seal was broken early, that the record was taken, that the collection was never logged, and that the instruction predated the Rite.
+* Holds Lira's partial copy naming EMBERVEIL, a bloodline absent from every lineage, treaty roll and liturgy he or Lira can reach.
+* Has not yet confronted Aldric. Has burned his standing with Oren and knows it.
+
+**Allies and threats now in play**
+
+* Tamsin: exiled healer, nineteen years out, source of the whole suppressed history, now permanently displaced.
+* Lira: active covert ally inside Duskmoor, at direct personal risk.
+* Garrick: knows about the seal, frightened for Kieran, has not acted against him.
+* Oren: compromised, will give nothing further, pointed at the Spire duplicate.
+* Veyra: patient, not deceived, working privately and off the registry floor.
+* Ilsa: dispatched, not yet on page.
+* Cassian Thorne: knows a branded girl survived and did something at four hundred paces that put his scout on his face. Motivated by four generations of Thornhollow grievance rather than by the Sanctum's interest.
+
+**Open threads**
+
+* What the Emberveil line could actually do. Not recoverable from Tamsin's pieces.
+* Whether Wren's birth, the registry flag, and Tamsin's exile falling in the same year is coincidence.
+* Who gave the verbal kill order and how far above the enforcers it began.
+* Whether Garrick's warning at the gate was his own or Kieran's.
+* What Wren's mother knew, and how.
+* Ilsa's whereabouts.

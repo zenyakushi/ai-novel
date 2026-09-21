@@ -51,7 +51,9 @@ def main():
     new, changed = [], 0
     for l in lines:
         s = l.strip()
-        if not s or s.startswith("#") or s.startswith("\\[") or len(sentences(s)) <= MAX:
+        if (not s or s.startswith("#") or s.startswith("\\[")
+                or (s.startswith("*") and s.endswith("*"))
+                or len(sentences(s)) <= MAX):
             new.append(l); continue
         groups = chunk(sentences(s))
         changed += 1
