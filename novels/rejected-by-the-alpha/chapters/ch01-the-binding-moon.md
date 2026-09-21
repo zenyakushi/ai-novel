@@ -48,7 +48,7 @@ She'd never told anyone. Not the girl beside her. Not her mother, before she die
 
 Especially not the Sanctum registrars who came through the pack lands every few years with their ledgers and their soft, searching questions.
 
-“Stay unremarkable”. Her mother's voice, the same two words every time.
+Stay unremarkable. Her mother's voice, the same two words every time.
 
 Whatever you feel. Whatever you notice about yourself that the others don't have. Bury it.
 

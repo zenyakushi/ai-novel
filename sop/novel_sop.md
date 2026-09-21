@@ -393,6 +393,21 @@ SYSTEM NOTIFICATIONS (only if this story uses a leveling/system mechanic):
 format them in brackets, e.g. \[SYSTEM: Iron Skin Skill acquired (Level 1)\].  
 Let them interrupt the prose like a real notification would.
 
+AUTOMATED GATE: run `python3 scripts/check.py <chapter file>` before delivering
+anything. It enforces the mechanical rules in this section deterministically, so
+they do not depend on a model remembering them. It blocks on: chapter number
+agreement, POV header correctness (measured by possessive interiority, not
+mention counts), dashes, word count, banned words, paragraph length, gloss
+simile density, anaphora runs, shallow "-ing" riders, inflated substitutes for
+is/are/has, curly quotes, and a missing ledger delta.
+
+Several of those checks are adapted from the humanizer skill
+(github.com/blader/humanizer). Its rules about one-line closers, short
+paragraphs and decorative formatting are deliberately NOT applied here: short
+paragraphs and punchy chapter endings are requirements of the mobile-serial
+format, not signs of machine writing. Platform convention wins over a general
+prose heuristic wherever the two disagree.
+
 BEFORE YOU DELIVER (check silently, fix anything that fails): paragraphs  
 ≤3 sentences · no banned words · no em dashes or en dashes · every emotion  
 shown physically, not stated · POV consistent · ends on a cliffhanger ·  
