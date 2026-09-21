@@ -82,6 +82,8 @@ There were two ways to be wrong about a thing like this. A man could believe a r
 
 He had outlived a great many men who had ranked those the other way around.
 
+Something moved in his chest that he had not felt in years and did not care for. He waited for it to pass, and it did, and he made a note of how long it took.
+
 "Sound. The enforcer captain and his men."
 
 "Archon?"

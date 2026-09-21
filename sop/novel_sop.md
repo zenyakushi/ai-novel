@@ -353,6 +353,9 @@ SOUND HUMAN, NOT AI-GENERATED (check every chapter, not just the word list):
 
 DIALOGUE:  
 \- Punchy: most lines under 12 words. Interrupt, trail off, hesitate.  
+\- Mark an interruption or a trailing off with an ellipsis, never a dash.
+  The dash ban has no dialogue exception, and reaching for one here is the
+  single most common way it gets broken.  
 \- No emotion tags ("she said angrily"); show it in the action around the  
   line instead.  
 \- Every exchange reveals character, advances plot, or escalates conflict.  

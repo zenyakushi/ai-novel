@@ -148,3 +148,30 @@ above as the live Story-State Ledger. Deltas resume from Chapter 7.
 * MAJOR, locked in: in fever Wren spoke the word "Emberveil" aloud, in a voice using her mouth without her choosing the words. She has never heard the word and does not understand it.
 * MAJOR relationship beat: Tamsin dropped what she was holding, seized Wren by the shoulders hard enough to bruise, and demanded to know who had said it to her. All the color went out of her face and her hands shook. Nothing else in nineteen years has produced that reaction.
 * Cliffhanger: Tamsin went to the door and barred it.
+
+## Chapter 11 delta
+
+* MAJOR power beat, locked in: Wren's rib wound closed in fourteen hours. The skin on either side of the fourteen stitches had joined, pink and new, with the thread sitting on top of finished work. The skull injury that should have killed her is also fine.
+* New baseline, from Tamsin: a wound that deep takes three weeks before a healthy wolf walks easy and six before they forget it. The skull would take two months with luck, and the wolf would never be quite the same. Wren was not lucky and lay in snow for most of a night first.
+* New: the fever broke clean, with none of the aftermath illness normally leaves. Tamsin calls the healing the fourth thing that week that should not be true.
+* Character beat: Wren reframes her whole life. She was never strong, never placed in the youth trials, and was glad of it. She now reads her mother's instruction to stay small as fear of what is in her rather than fear of the pack.
+* Relationship beat: Tamsin refuses to lie to her about the speed of the healing, saying she will get enough of that from everyone else. She also refuses to explain the mark or the word.
+* Cliffhanger, locked in: Tamsin states the trap plainly. Sent back across the border, Wren is finished inside a week. Left alone in the Wilds with the mark and the blood, she does not last a month, and it will not be the Sanctum that does it. There is no door Tamsin can put her out of.
+
+## Chapter 12 delta
+
+* New: Tamsin gave Wren a knife, a worn one, and promised to teach her the grip. Wren can already stand unaided and did not tell her, which she notes as either caution or habit.
+* New world rules, the four unwritten laws of the Wilds as Tamsin gives them: nobody asks what you did, and anyone who asks wants something; nobody owes you shelter but most will trade, and a gift given for nothing is an unagreed debt; the border is a habit rather than a wall, unpatrolled, and the most dangerous place out here because it is where people are making decisions; and the Wilds do not keep anyone who makes themselves interesting.
+* New: Tamsin deflected when Wren pointed out she had been given nine miles of dragging and fourteen stitches for nothing, answering only "Did I."
+* New inhabitants named: a family of four four hours north, eleven years in place; a trapper east of the split rock who trades rabbits for thread; the Vigil, further out, described as the only organized group in the Wilds, which Tamsin frames as a danger because organized people have plans and plans need pieces; and rogues who hunt the border in threes and fours.
+* Relationship beat: Wren does not trust Tamsin but has begun to trust that she can survive her, which she counts as more than she has anywhere else.
+* Cliffhanger: three howls, the third cut off clean on an unfinished note. Not wolves.
+
+## Chapter 13 delta
+
+* New mechanic: Tamsin's evacuation drill, rehearsed and done at a walk. She scatters the hearth ashes across open ground rather than banking the fire, because a warm hearth tells a tracker how long ago and a cold one tells them nothing. She has done this four times, twice for nothing.
+* Locked in: six Sanctum trackers swept the hut, carrying no torches. One felt the door for warmth with a flat palm before opening it, and crouched at the dead hearth afterward. They did not search the trees, did not fan out, and left in formation.
+* New: the sweep is routine. Tamsin says they will do six or eight in a night, checking registered exiles the Spire suspects are still breathing when the paperwork says otherwise, and that they return every month or two.
+* MAJOR realization: Wren works out in four days what took Tamsin six years. Exile is not a sentence that someone might survive. It is a method, and it is not meant to work.
+* New: Wren notes she is cold but not suffering, and that her body is keeping pace with conditions that should be breaking it.
+* Cliffhanger, and a thread that points at Chapter 7: Wren asks what the Sanctum sends when it actually wants to find someone, rather than to tick a list. Tamsin answers that they send one. Neither of them knows Veyra has already dispatched Ilsa.

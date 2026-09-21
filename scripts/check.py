@@ -53,7 +53,10 @@ def check_chapter(path, dual_pov_started):
         # outside. Mention counts do NOT work here, because a POV character often
         # spends the chapter watching someone else. This is the check that would
         # have caught Chapter 4 shipping as Kieran's POV over Wren's prose.
-        INNER = r"(?:chest|pulse|throat|knees|stomach|skin|hands?|mind|thoughts?|breath|heart|eyes|ribs|spine|jaw)"
+        # Only nouns that cannot be observed from outside. Hands, eyes and faces
+        # belong to whoever the POV character is watching, which produced a false
+        # positive on chapter 13, where Wren watches six men from a ridge.
+        INNER = r"(?:chest|pulse|throat|stomach|mind|thoughts?|breath|heart|ribs|blood|spine|skin)"
         cast = {}
         cj = os.path.join(os.path.dirname(os.path.dirname(path)), "cast.json")
         if os.path.exists(cj):
