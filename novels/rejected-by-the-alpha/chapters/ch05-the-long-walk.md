@@ -34,7 +34,7 @@ The brand under Wren's collarbone had stopped burning somewhere around the secon
 
 The outer gate stood open, which it never did at night.
 
-Four Sanctum enforcers waited beneath it in grey, and the torches set behind them made a wall of light she had to walk into to be seen.
+Four Sanctum enforcers waited beneath it in gray, and the torches set behind them made a wall of light she had to walk into to be seen.
 
 Garrick stopped three paces short.
 
@@ -84,7 +84,7 @@ She catalogued four more before the ridge, and each one settled somewhere behind
 
 Her chest had been hollow since the platform. This was the first thing that had gone into it since.
 
-The last checkpoint was a low post of grey stone with the Dominion's mark cut into the face of it, and a brazier beside it that had gone out long enough ago to have snow in the ashes.
+The last checkpoint was a low post of gray stone with the Dominion's mark cut into the face of it, and a brazier beside it that had gone out long enough ago to have snow in the ashes.
 
 One of the enforcers put a hand flat on the post as he passed. He did not look at it while he did it.
 
@@ -102,7 +102,7 @@ Wren stopped and turned.
 
 He was not looking at her. He had drawn the other three in close around him, heads down, and his voice had dropped under the wind.
 
-Not arguing. Arranging.
+He was not arguing with them about any of it. He was arranging it.
 
 The wind took most of it. She caught three words whole.
 
@@ -110,4 +110,4 @@ The wind took most of it. She caught three words whole.
 
 The tall one's eyes came up to her and went away again. "And if she is found?"
 
-"The Wilds took her." The lead enforcer had the words ready, flat and unweighted, with no part of himself in them. "That is all that goes in the file."
+"The Wilds took her." The lead enforcer had the words ready before the question had finished, and there was no part of himself anywhere in them. "That is all that goes in the file."

@@ -104,7 +104,7 @@ It didn't fade. It stretched.
 
 Straight toward the head of the Draven line. Straight toward Kieran.
 
-He went rigid, spine locking, shoulders driven back, nothing in it he had chosen. The same thread lit under his own skin, racing up from nowhere, and across the amphitheater, eight hundred wolves came up out of their seats at once.
+He went rigid, his spine pulling him straight before he had any say in it. The same thread lit under his own skin, racing up from nowhere, and across the amphitheater, eight hundred wolves came up out of their seats at once.
 
 "That's not..." someone near the front started, and didn't finish.
 
@@ -114,7 +114,7 @@ Yseult's mouth flattened for one second before she caught it. Her face went smoo
 
 Kieran was staring at Wren now. Really staring, jaw slack, one hand rising halfway toward her before he caught himself and let it fall.
 
-Behind him, a man in Sanctum grey leaned toward King Aldric's ear. Aldric's jaw went tight. He didn't look surprised.
+Behind him, a man in Sanctum gray leaned toward King Aldric's ear. Aldric's jaw went tight. He didn't look surprised.
 
 He looked like a man who'd already known what was coming. Something about his stillness snagged harder than the noise around it, and Wren's eyes stayed on him a beat too long before the thread pulled her attention back to Kieran. 
 

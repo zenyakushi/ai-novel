@@ -50,7 +50,7 @@ His mouth opened again and no sound came out the first time. Yseult's chin dippe
 
 Somewhere in the tiers, a single voice broke free of the hush. "No." It was swallowed instantly by hundreds more, but Wren heard it.
 
-Somewhere behind Kieran, Lira's hand came up over her own mouth. Garrick didn't move at all. Not his hands, not his eyes, not one part of him.
+Somewhere behind Kieran, Lira's hand came up over her own mouth. Garrick didn't move at all, and he didn't take his eyes off the back of Kieran's head.
 
 The thread between them went white.
 
