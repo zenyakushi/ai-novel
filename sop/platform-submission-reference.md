@@ -1,8 +1,8 @@
 # Platform Submission Reference (detailed)
 
-Long-form source detail behind Part F of `novel_sop.md`. The SOP's Part F is the
-operational checklist; this is the underlying research it condenses. Flagged gaps
-below are unverified and must be confirmed with the platform before relying on them.
+Long-form research notes behind Part F of `novel_sop.md`. This document contains historical research leads, not a verified statement of current platform policy. Some entries are uncited, undated, or based on secondary summaries. Do not rely on its AI-content claims, chapter-length targets, submission thresholds, timelines, or contract terms until checked against current official platform terms or confirmed in writing by an editor.
+
+Last audit: 2026-10-09. Official-source spot-check: STARY's current terms require authors to warrant that content is wholly original and that they own the necessary rights, but the terms page reviewed does not by itself establish a complete AI-use policy. GoodNovel's official author guide gives a contract-response estimate of two weeks to one month, which differs from the older figures elsewhere in this file. For every target platform, capture the official URL, date checked, exact rule, and any written editor response before treating a policy as settled.
 
 # **F. Platform Submission Guide**
 
@@ -231,3 +231,12 @@ Regardless of which platform you're submitting to next, confirm these before ope
 * **StaryWriting/Dreame:** essentially the entire submission process: registration steps, minimum content, review timeline, genre/content restrictions, format recommendations. This is the biggest hole across all five platforms; treat nothing above as settled until confirmed directly.  
 * **LetterLux:** review timeline duration (only the two-stage word-count structure is confirmed, not how long each review takes).  
 * **MoboReader:** review timeline duration; whether the "200k words by August 31" checklist line is a permanent rule or tied to a specific contest window; cover art specs/restrictions.
+
+
+## Official-source audit log (2026-10-09)
+
+- GoodNovel Author's Guidebook, “Step 2: On Signing the Contract”: https://www.goodnovel.com/book/GoodNovel-Author-s-Guidebook_21000005174/Step-2-On-Signing-the-Contract_90312. It says contract applications typically receive a response in 2 weeks to 1 month. This differs from older timeline figures in the table. The page reviewed does not establish the AI-use policy.
+- STARY Terms, “Your Content”: https://www.starywriting.com/en/help/term. The terms require authors to warrant that content is wholly original and that they own the necessary rights. The reviewed page does not explicitly settle the full scope of permitted AI assistance.
+- STARY Content Guideline: https://www.starywriting.com/en/help/contentGuideline. It addresses content and originality concerns, but the reviewed page does not explicitly settle the full scope of permitted AI assistance.
+
+No current official AI policy was verified in this spot-check for SevenCat/TapRead, LetterLux, or MoboReader. This is a research gap, not evidence that AI is permitted or prohibited. Contact each platform/editor directly and retain the written answer. Do not submit until the policy is clear for the exact planned workflow (AI-assisted outline, prose generation, rewriting, grammar correction, and editing).
