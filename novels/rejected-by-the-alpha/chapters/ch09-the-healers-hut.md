@@ -90,7 +90,11 @@ The answer had come too quickly to be the true one. Wren let it stand. She was i
 
 "They'll come back."
 
-"They won't. I've been out here nineteen years. They don't come back to care for anyone. Every so often they sweep the border for irregularities. That is not the same as checking on you."
+"They won't. I've been out here nineteen years."
+
+"They don't come back to care for anyone. Every so often they sweep the border for irregularities."
+
+"That is not the same as checking on you."
 
 A cloth, wrung out, laid across Wren's forehead. "That's the one mercy in how they do it. They cannot be bothered."
 
