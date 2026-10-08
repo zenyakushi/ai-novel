@@ -2,7 +2,7 @@
 
 \[Wren's POV\]
 
-They did not run. That was the part Wren had not expected.
+They did not run. Wren had expected them to.
 
 Tamsin moved through the hut at a walk, and everything she picked up went into the same pack in the same order, and Wren understood that she was watching a thing that had been rehearsed.
 
