@@ -42,6 +42,8 @@ It had not slowed.
 
 Every time the pieces let her think, she returned to the same fact: everything in her was shutting down in the order the old wolves had promised, but the second pulse had not changed its pace by a single beat.
 
+Her own body had stopped bargaining.
+
 It went on under her breastbone, steady and unhurried, like something keeping time in an empty room.
 
 She pressed her working hand flat against her chest, over the brand, over the ruin below it.
