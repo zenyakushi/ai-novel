@@ -100,7 +100,7 @@ Tamsin's mouth tightened.
 
 Wren sat with that.
 
-She had never been strong. That was the thing that kept circling. She had been an unremarkable wolf from an unremarkable line, the sort who does not place in the youth trials and is not expected to, and she had been glad of it because glad was easier than the alternative.
+She had never been strong. The thought kept circling. She was an unremarkable wolf from an unremarkable line, the sort who did not place in the youth trials and was never expected to. She had been glad of it because glad was easier than the alternative.
 
 Her whole life had been evidence that there was nothing in her.
 
