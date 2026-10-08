@@ -136,6 +136,6 @@ Tamsin's voice, when it came, was not the voice she had been using all night. It
 
 "Not the brand."
 
-Tamsin's thumb pressed lightly at the skin just beneath the black lines, where the firelight caught, where Wren had never once thought to look.
+Tamsin's thumb pressed lightly beneath the black lines. A narrow, pale ridge crossed under the lowest stroke of the brand, its edge raised against the fresh, angry skin. Firelight caught on it when Tamsin tilted Wren's shoulder.
 
 "Under it," she said. "How long have you had what's under it."
