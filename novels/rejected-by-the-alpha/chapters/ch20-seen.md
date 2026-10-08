@@ -160,7 +160,7 @@ The scout stared at him. "I was four hundred paces out, Alpha. I couldn't see he
 
 He straightened up from the map, and he was smiling slightly, and it was not a pleasant thing to watch.
 
-"They branded a girl at Duskmoor six weeks ago and put her over the border to die," he said. "It was the talk of four packs and then it was the talk of none, which is the part that always interests me."
+"They branded a girl at Duskmoor nearly four weeks ago and put her over the border to die," he said. "It was the talk of four packs and then it was the talk of none, which is the part that always interests me."
 
 He looked back down at the map and put one finger on the empty country east of the quarry, where nothing was drawn because nobody had ever thought it worth the ink.
 
