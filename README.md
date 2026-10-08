@@ -26,7 +26,11 @@ Novels are folders, not branches. Drafting happens on short-lived
 python3 scripts/check.py novels/rejected-by-the-alpha
 ```
 
-Exit 0 means the novel currently satisfies every mechanical rule.
+Exit 0 means the scanned files pass the checks the script actually implements. It does not validate story continuity, outline fidelity, cliffhanger quality, commercial readiness, or platform compliance.
+
+## Current novel state
+
+`Rejected by the Alpha` has prose drafts through Chapter 20. The Chapter 20 Master Ledger Update is the current continuity checkpoint. Chapter-level POV planning exists in `novels/rejected-by-the-alpha/outline.md`; Chapters 26-350 are marked UNASSIGNED and must be assigned before drafting. See `REVIEW_ACTION_PLAN.md` for the current audit scope.
 
 ## Starting a new novel
 
