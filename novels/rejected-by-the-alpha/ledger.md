@@ -136,7 +136,7 @@ above as the live Story-State Ledger. Deltas resume from Chapter 7.
 * Locked in: Tamsin found Wren and dragged her to a turf-and-timber hut somewhere past the border. Tamsin is not young, and the drag cost her.
 * New: Tamsin already knew Wren's name before it was given, saying word crosses the border faster than people do, and refusing to say from whom. Wren notes the answer is a deflection.
 * New: the rib wound took fourteen stitches. The head injury cannot be treated, only watched.
-* New world rule, from Tamsin: the Sanctum has never once come back to check on an exile in nineteen years. She calls that the one mercy in how they do it, because they cannot be bothered.
+* Clarified world rule, from Tamsin: the Sanctum does not return to care for or rescue exiles. It does conduct occasional border sweeps to verify whether supposedly dead exiles remain alive; surveillance is not mercy.
 * New: the hut has one room and three bars on the door, which is two more than weather requires.
 * Cliffhanger, MAJOR: cleaning upward toward the collarbone, Tamsin found something in the skin beneath the fresh brand and went completely still. She asked how long Wren has had what is under it. Wren has never looked.
 
@@ -236,7 +236,7 @@ above as the live Story-State Ledger. Deltas resume from Chapter 7.
 * Locked in: the watcher was one man, positioned before first light, who walked on stone where he could and crossed open snow only where there was no alternative. He watched the entire attempt from four hundred paces.
 * MAJOR, locked in: his boot was mended, the sole sewn back on with a saddler's stitch. Sanctum boots are issued and replaced from stores, never mended. He is not Sanctum.
 * Character development: Wren had been operating on the belief that the world had exactly one shape, the Sanctum wanting her dead. Losing that costs her, because one enemy has a shape and habits Tamsin has spent nineteen years learning. Two means the Wilds are not a place with a danger in it.
-* New: Tamsin abandoned the hut permanently. Wren was surprised by the cost of leaving it after six weeks.
+* New: Tamsin abandoned the hut permanently. Wren was surprised by the cost of leaving it after nearly four weeks.
 * New: the scout felt the power at four hundred paces, through rock and snow, and went flat on his face involuntarily. He has run the border eleven years and does not frighten easily. He has no word for what it was.
 * MAJOR new character on page: Cassian Thorne, Alpha, at a camp in an old quarry. He identified the branded girl from the report alone, correctly guessing the mark was on her collarbone and fresh, before the scout mentioned it.
 * New: Cassian has tracked the Duskmoor branding. He notes it was the talk of four packs and then the talk of none, and says that is the part that always interests him.
