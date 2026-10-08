@@ -1,6 +1,6 @@
 # Novel 1: Chapter Outline
 
-All 350 chapters, in 10 batches across 6 arcs. Canonical chapter numbering. Every chapter has a POV field. Chapters 1-25 have provisional assignments based on the existing prose and current outline; Chapters 26-350 are explicitly UNASSIGNED and must be allocated during the next batch-planning pass. Do not draft a chapter with an unassigned POV. The bible's 65% Wren / 35% Kieran target is a planning target, not a license to force a POV that weakens the scene.
+All 350 chapters, in 10 batches across 6 arcs. Canonical chapter numbering. Every chapter has a POV field. Chapters 1-25 are assigned from the current prose and outline; Chapters 26-350 have provisional, outline-based POV proposals. Review and confirm each proposal during batch planning before drafting. The bible's 65% Wren / 35% Kieran target is approximate and must not override scene logic.
 
 # Arc 1: "The Rejection"
 
@@ -62,7 +62,7 @@ All 350 chapters, in 10 batches across 6 arcs. Canonical chapter numbering. Ever
 
 **Ch. 7: "Filed as Handled"**
 
-* POV: Wren
+* POV: Veyra
 
 * Purpose: introduce Archon Malrick Veyra directly, on-page, far earlier than his first plot-relevant appearance; establish the Sanctum's administrative machinery  
 * Key events: the enforcers report Wren's death; the file is marked closed. Veyra, reviewing routine paperwork, pauses on the Emberveil bloodline registry entry and refuses to close it on an enforcer's word alone  
