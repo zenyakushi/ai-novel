@@ -88,9 +88,7 @@ the gate again.
 
 ## Current state
 
-Chapters 1 through 4 are drafted, audited, and final. Chapters 5 and 6 are
-outlined and ready to draft. No Master Ledger Update has fired yet; the first
-checkpoint is due at batch end or immediately after the next major event.
+Chapters 1 through 20 have draft prose in the repository. The Chapter 20 Master Ledger Update is the current continuity checkpoint; earlier checkpoints fired after Chapters 6 and 20. Chapter 21's outline has been revised to build on Cassian's introduction in Chapter 20. Before drafting Chapter 21, verify the outline, current ledger, and new POV assignment. Chapters 26 through 350 currently have explicit UNASSIGNED POV fields and must be assigned before drafting.
 
 Run `python3 scripts/check.py novels/rejected-by-the-alpha` to confirm the
 current state passes before starting anything.
@@ -112,8 +110,4 @@ Do not rediscover these the hard way.
 
 ## Platform reality check
 
-Every target platform restricts AI-generated text, from "discouraged" to
-"submission-blocking gate" (see `sop/platform-submission-reference.md`). This
-system is an AI-assisted drafting pipeline aimed at those platforms. That
-tension is real and unresolved, and it is the author's call, not the
-assistant's. Do not quietly ignore it, and do not lecture about it either.
+Platform AI-content rules are not adequately verified in the current reference. Treat the platform comparison as leads, not current policy. Before choosing a platform, verify its live official terms and ask the platform/editor in writing whether AI-assisted outlining, drafting, rewriting, and editing are allowed. Do not submit on the assumption that the existing AI-policy table is current.
