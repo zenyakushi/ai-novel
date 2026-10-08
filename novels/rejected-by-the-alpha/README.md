@@ -28,7 +28,7 @@ root. See `../../WORKFLOW.md` for the Google Docs review loop.
 
 Chapters 1 through 20 have prose drafts. Treat them as drafts requiring continued editorial review, not as universally final or platform-ready. Chapter 20's Master Ledger Update is the current continuity checkpoint; the earlier checkpoint followed Chapter 6. Current word counts should be regenerated from the live files with `scripts/check.py`, not copied from this README.
 
-Chapter-level POV fields are in `outline.md`. Chapters 1-25 have provisional POV assignments. Chapters 26-350 are marked UNASSIGNED and must be assigned during batch planning before drafting.
+Chapter-level POV fields are in `outline.md`. Chapters 1-25 have provisional POV assignments. Chapters 26-350 have provisional POV proposals that must be confirmed during batch planning. The current proposals do not yet meet the bible's 65% Wren / 35% Kieran target.
 
 ## Canonical numbering
 
