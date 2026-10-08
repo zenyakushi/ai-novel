@@ -40,7 +40,7 @@ And underneath it, the other one.
 
 It had not slowed.
 
-That was the thing she kept arriving back at, each time the pieces let her think at all. Everything in her was shutting down in the order the old wolves had always promised it would, and the second pulse had not changed its pace by a single beat.
+Every time the pieces let her think, she returned to the same fact: everything in her was shutting down in the order the old wolves had promised, but the second pulse had not changed its pace by a single beat.
 
 It went on under her breastbone, steady and unhurried, like something keeping time in an empty room.
 
