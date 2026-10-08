@@ -190,7 +190,7 @@ All 350 chapters, in 10 batches across 6 arcs. Canonical chapter numbering. Ever
 
 * POV: Cassian (proposed)
 * Purpose: move Cassian from observer to active player without repeating his introduction or Thornhollow's grievance already established in Chapter 20
-* Key events: Cassian questions the scout about the sensation he could not name and the exact circumstances of Wren's test; he checks the report against Thornhollow's existing records and gives one concrete new piece of evidence about the ruling houses' past conduct; he assigns a small, discreet search rather than mobilizing the pack openly
+* Key events: Cassian questions the scout about the sensation he could not name and the exact circumstances of Wren's test; he checks the report against Thornhollow's existing records but finds no answer he is willing to trust yet; he assigns a small, discreet search rather than mobilizing the pack openly
 * Character development: Cassian's interest shifts from opportunity to a personal decision, while his ambition remains visible in the way he controls what his people are told
 * Cliffhanger: Cassian decides to find Wren himself before the Sanctum does, and leaves the camp before dawn
 
