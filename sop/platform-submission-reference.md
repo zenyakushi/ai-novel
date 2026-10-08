@@ -89,7 +89,7 @@ Last audit: 2026-10-09. Official-source spot-check: STARY's current terms requir
 * \[ \] Account created at sevencat.com  
 * \[ \] Confirmed whether you qualify for Top Author track ($30k+ earned elsewhere in the past 2 years): if yes, contact your editor for verification instead of the standard application  
 * \[ \] Application materials as complete as possible before submitting (given the 14+ business day exclusive review)  
-* \[ \] Original English content, no AI-generated or plagiarized text  
+* \[ \] Written confirmation of current AI-use rules for the planned workflow; separately confirm originality and plagiarism requirements  
 * \[ \] Plan noted to apply for "premium" status once you cross 30,000 words: it's not automatic
 
 ---
