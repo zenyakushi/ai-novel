@@ -88,7 +88,7 @@ the gate again.
 
 ## Current state
 
-Chapters 1 through 20 have draft prose in the repository. The Chapter 20 Master Ledger Update is the current continuity checkpoint; earlier checkpoints fired after Chapters 6 and 20. Chapter 21's outline has been revised to build on Cassian's introduction in Chapter 20. Before drafting Chapter 21, verify the outline, current ledger, and new POV assignment. Chapters 26 through 350 currently have explicit UNASSIGNED POV fields and must be assigned before drafting.
+Chapters 1 through 20 have draft prose in the repository. The Chapter 20 Master Ledger Update is the current continuity checkpoint; earlier checkpoints fired after Chapters 6 and 20. Chapter 21's outline has been revised to build on Cassian's introduction in Chapter 20. Before drafting Chapter 21, verify the outline, current ledger, and new POV assignment. Chapters 26-350 have provisional POV proposals derived from the outline. Confirm them during batch planning before drafting; the proposed distribution currently falls short of the bible's 65% Wren / 35% Kieran target.
 
 Run `python3 scripts/check.py novels/rejected-by-the-alpha` to confirm the
 current state passes before starting anything.
