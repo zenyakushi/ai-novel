@@ -17,7 +17,7 @@ The production SOP (Parts A-F) exists as a refined markdown document covering: s
 
 **On the horizon**
 
-- POV assignments are provisional through Chapter 25. Chapters 26-350 are explicitly UNASSIGNED in the outline and must be assigned before drafting.
+- POV assignments are provisional through Chapter 25. Chapters 26-350 have provisional outline-based POV proposals that must be confirmed before drafting.
 - Ongoing ledger management: per-chapter delta outputs, full master ledger rewrite at batch-end checkpoints or after major plot events (deaths, reveals).
 - Continued POV rotation tracking (Kieran/Wren balance).
 - Placeholder chapters from the Chapter 1 restructure (two chapters displaced when Chapters 1-6 compressed to 1-4) still need final placement.
