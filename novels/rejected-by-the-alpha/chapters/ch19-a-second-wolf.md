@@ -50,7 +50,7 @@ Wren knew exactly what she meant.
 
 She closed her eyes.
 
-It was there. It was always there, under the breastbone, slower than her heart, keeping its own count in a room nobody else could hear.
+It was there. It had always lived under the breastbone, slower than her heart, keeping its own count in a room nobody else could hear.
 
 She had spent nineteen years building a wall between herself and it. Pressing her fingers to her wrist and finding one rhythm and being glad. Not listening, deliberately, every day, until not listening had become a muscle.
 
