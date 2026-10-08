@@ -584,17 +584,19 @@ Next steps (yours, not the AI's): paste the prompt into your image generator, pi
 
 ### **Quick Comparison**
 
+**Verification warning (2026-10-09):** This table is a planning checklist, not a current policy source. The existing research contains conflicting chapter-length and review-time figures, and the current official AI-use policies were not verified for all five platforms. Before submitting, check the platform's current official terms and get written confirmation from an editor about the exact level of AI assistance used. See `sop/platform-submission-reference.md` for the audit log.
+
 |  | GoodNovel | SevenCat/TapRead | StaryWriting/Dreame | LetterLux | MoboReader |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | Register at | goodnovel.com | sevencat.com | starywriting.com | LetterLux site | author.moboreader.com |
 | Min. to apply | 5,000 words | Not specified 🚩 | Not addressed 🚩 | 5,000 words (up to 30k on resubmit) | 10 ch. AND 10,000 words |
 | Review time | 10-14 days \+ 2-4 weeks | 7 days (non-excl.) / 14+ (excl.) | Not addressed 🚩 | Not stated 🚩 | Not stated 🚩 |
 | Genre restrictions | None named | Not addressed 🚩 | Not addressed 🚩 | Explicit reject list | Theme, genre, tag system |
-| AI content | Discouraged, grammar-only | Full bonus cancellation if found | Not addressed 🚩 | Supporting-tool OK, full-AI banned | Submission-blocking gate |
+| AI content | Not verified from current official policy | Not verified from current official policy | Not verified from current official policy | Not verified from current official policy | Not verified from current official policy |
 | Recommended length | 0.8k-1k words | Not stated 🚩 | Not stated 🚩 | ≥1,000 words | 1,500-2,500 words |
 | Structure | Single platform | Single platform | Single platform | Distributes to 9 partner apps | Single platform |
 
-🚩 \= not confirmed in source. Verify directly with the platform before relying on it.
+🚩 = not confirmed in source. All platform figures and policy summaries are research leads, not authoritative current requirements. Verify directly with current official terms or obtain written confirmation from an editor before relying on them. In particular, no current official AI-use policy was verified for these five platforms in the 2026-10-09 spot-check.
 
 ### **Platform Checklists**
 
@@ -614,7 +616,7 @@ Next steps (yours, not the AI's): paste the prompt into your image generator, pi
 * \[ \] Account at sevencat.com  
 * \[ \] 🚩 No stated minimum to *apply*. Only the 30,000-word bonus threshold is documented. Confirm directly.  
 * \[ \] Application as complete as possible before submitting (incomplete exclusive applications get delayed)  
-* \[ \] Original English content, no AI-generated or plagiarized text (grounds for bonus cancellation and possible removal)  
+* \[ \] Obtain written confirmation of current AI-use rules for the planned workflow; do not infer permission or prohibition from this reference alone  
 * \[ \] Plan to separately apply for "premium" once you cross 30,000 words  
 * Two paths: Standard track, or Top Author Program if you've earned $30k+ on any platform in the past 2 years (contact your editor directly for that one).
 
@@ -631,7 +633,7 @@ Next steps (yours, not the AI's): paste the prompt into your image generator, pi
 * \[ \] 5,000 words submitted for review (may be invited to extend to 30,000 on a second pass)  
 * \[ \] First 6 chapters (\~5,000 words) specifically polished (this is what's shown free and what gauges signability)  
 * \[ \] Genre checked against the reject list: Poetry, Political/Historical, Slice of life, Short Story Compilation, and Pure Horror are **not accepted**. Best odds: Sports Romance, Werewolf, YA/Teen.  
-* \[ \] AI use limited to supporting-tool level, not generation  
+* \[ \] Obtain written confirmation of current AI-use rules for the planned workflow; do not infer permission or prohibition from this reference alone  
 * \[ \] Aware scheduled chapters can't post within 2 hours, publish in order, and editing one forces immediate publication (all times UTC+0)
 
 **MoboReader**
@@ -639,7 +641,7 @@ Next steps (yours, not the AI's): paste the prompt into your image generator, pi
 * \[ \] Account at author.moboreader.com; book entry with language, title, blurb, locked-chapter point, genre, tag, editor info  
 * \[ \] 10 chapters AND 10,000 words uploaded (both required)  
 * \[ \] Classification assigned in order: Theme, then Genre, then Tags (at least 2 tags; 1 must be niche-specific if this is a Niche Genre)  
-* \[ \] Not AI-generated, not plagiarized, not fan fiction  
+* \[ \] Obtain written confirmation of current AI-use rules for the planned workflow; do not infer permission or prohibition from this reference alone  
 * \[ \] Chapters targeting 1,500-2,500 words. Don't reuse a chapter written to another platform's shorter length unchanged  
 * 🚩 Any "complete X words by \[date\]" target you see is likely tied to a specific contest, not a standing rule. Confirm the current live target.
 
