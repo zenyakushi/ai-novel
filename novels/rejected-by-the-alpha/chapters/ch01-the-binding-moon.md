@@ -14,7 +14,9 @@ Underneath it, something else answers. A second pulse, hers but not hers, hammer
 
 Then the heat, the noise, all of it, goes out at once. Black swallows the rest.
 
-………………………………………………..………………..………………..………………..
+…---
+
+*Hours Earlier*
 
 "You're doing the thing again," the girl behind her said, tugging hard at the laces of Wren's ceremonial wrap.
 
