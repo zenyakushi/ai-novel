@@ -58,7 +58,7 @@ Cartilage gave. A man swore, and the grip came off her.
 
 She had never hit anything in her life.
 
-That was the part that would not sit right, even then, even with her mouth full of snow. Not that it had worked. That her body had chosen it without asking her, and had known where the face would be.
+She could not get past the fact that her body had chosen it without asking, already knowing where the face would be.
 
 Nineteen years of making herself small, and something underneath all of it had been keeping its own counsel the whole time.
 
