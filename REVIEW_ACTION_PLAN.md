@@ -1,14 +1,38 @@
 # Repository Review Actions
 
-This file records the six review actions requested for the current `main` snapshot. The actual continuity, documentation, outline, style, and platform-reference changes are being made in their relevant files.
+Audit date: 2026-10-09. Scope: current repository files and the first 20 prose chapters.
 
-## Actions
-1. Resolve timeline and Sanctum-sweep continuity: align the six-week recovery claim with the day-22 timeline, and distinguish care/rescue from periodic verification sweeps.
-2. Refresh the handoff, README, project memory, and ledger checkpoint status to reflect 20 drafted chapters and the Chapter 20 master-ledger checkpoint.
-3. Revise Chapter 21's outline so Cassian's introduction and Thornhollow's grievance, already shown in Chapter 20, are not repeated.
-4. Add missing batch headings, explicit POV planning, and bible/outline synchronization guidance.
-5. Apply a targeted style pass to the opening prose and scene transitions without rewriting the manuscript wholesale.
-6. Re-check platform policy using official pages where available; mark unverified platform claims as unverified and do not treat AI policy claims as established without direct official evidence.
+## 1. Continuity and timeline
+- [x] Chapter 20 now says Wren has been in the hut nearly four weeks, consistent with the day-22 checkpoint in Chapter 16 and the short run of Chapters 17-20.
+- [x] Chapter 9 distinguishes no care/rescue from periodic verification sweeps, resolving the apparent conflict with Chapter 13.
+- [x] Ledger language corrected to match the story rule.
+- [x] Chapter 9 now gives the older mark a concrete physical appearance without explaining its meaning.
 
-## Status
-In progress. See the latest commit history for the files changed and the final verification notes.
+## 2. Stale project documentation
+- [x] Refreshed HANDOFF, root README, novel README, project memory, and ledger checkpoint status to reflect 20 prose drafts and the Chapter 20 Master Ledger Update.
+- [x] Clarified that a mechanical checker passing does not establish story or commercial readiness.
+
+## 3. Chapter 21 outline
+- [x] Reframed Chapter 21 to build from Cassian's introduction and Thornhollow's grievance already present in Chapter 20.
+- [x] Kept new evidence within the established premise: Thornhollow's historic exile for defying the Sanctum, rather than inventing an unrelated backstory.
+
+## 4. Outline and bible alignment
+- [x] Added Batch headings 5-10.
+- [x] Added a POV field to all 350 chapter entries. Chapters 1-25 reflect the current prose/outline; Chapters 26-350 have provisional outline-based proposals.
+- [x] Added continuity/terminology notes to the bible.
+- [ ] Author-level planning decision remains: the provisional POV distribution does not meet the bible's 65% Wren / 35% Kieran target. The current outline needs a focused POV-balancing pass before the full run is drafted. The proposals are not locked canon.
+
+## 5. Targeted style edit
+- [x] Chapter 1's dotted scene separator replaced with the established scene-break format and the planned "Hours Earlier" label.
+- [x] Chapter 9's mark description made visually legible, and Tamsin's exposition clarified.
+- [x] Chapter 20's recovery duration corrected without rewriting the opening 20 chapters wholesale.
+- [ ] Further line editing across all 20 chapters remains a separate editorial pass; the first pass should target repeated rhetorical constructions, not rewrite voice indiscriminately.
+
+## 6. Platform-policy verification
+- [x] Marked the platform reference as historical research rather than current authoritative policy.
+- [x] Checked official GoodNovel and STARY pages. GoodNovel's official guide gives a two-weeks-to-one-month contract-response estimate; STARY's terms require originality/rights warranties but do not, by themselves, settle the full AI-use policy.
+- [x] Removed unsupported definitive AI-policy claims from the platform comparison and replaced them with a written-confirmation requirement.
+- [ ] Current official AI-use rules remain unverified for SevenCat/TapRead, LetterLux, and MoboReader, and the exact planned workflow must be cleared with the chosen platform before submission.
+
+## Next safe production step
+Do not draft Chapter 21 until its POV and the next batch's POV plan are reviewed. Confirm the Wren/Kieran distribution target, then run the repository's mechanical checker and a manual continuity/style audit before publishing any chapter draft.
