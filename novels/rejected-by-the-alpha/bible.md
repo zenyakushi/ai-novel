@@ -178,3 +178,21 @@ On the night of her mating ceremony, Wren Ashveil is rejected by her fated Alpha
 **Synopsis:** On the night of her mating ceremony, Alpha Kieran Draven rejects Wren in front of the entire kingdom: her bloodline branded unfit by the sacred bond itself. Left for dead in the Wilds, she uncovers the truth: the bond was never divine, it was built to hunt her family to extinction. Now, as the kingdom that condemned her races to finish the job, Wren must decide whether to burn their sacred lie to the ground, or seize it, and rule.
 
 **Tags:** Werewolf, Rejected Mate, Alpha Romance, Enemies to Lovers, Hidden Identity, Revenge, Fated Mates, Royal Bloodline
+
+
+## Continuity and production addendum (2026-10-09)
+
+### Timeline and surveillance
+- Chapter 16 anchors Wren's recovery at Day 22 after exile. Chapters 17-20 follow in a short sequence; Chapter 20's hut reference is now "nearly four weeks," not six weeks.
+- Tamsin's rule is that the Sanctum does not return to care for or rescue exiles. It does conduct occasional border sweeps to verify whether exiles recorded as dead remain alive. Those are surveillance operations, not welfare checks.
+
+### The mark beneath Wren's brand
+- In the Chapter 9 draft, the older mark is a narrow, pale raised ridge crossing beneath the lowest stroke of the fresh brand. This is a visible clue, not an explanation. Keep its origin and meaning withheld until the outline's reveal point.
+
+### "A Second Wolf"
+- Through Chapter 19, the prose establishes a second presence or unmediated connection that Wren first experiences as a pulse, then rejects as merely a pulse. It does not yet establish a separate, literal wolf entity.
+- Treat "second wolf" as a working label for the emerging power unless a later reveal deliberately makes it literal. The title of Chapter 19 should be reviewed against that distinction during the next style pass.
+
+### POV planning
+- The outline now carries a POV field for every chapter. Chapters 1-25 are based on the current prose and outline. Chapters 26-350 have provisional proposals derived from each chapter's described focus; those proposals must be confirmed before drafting.
+- Important audit finding: the current outline-based proposals do not yet meet the bible's stated 65% Wren / 35% Kieran target. Do not force POV to meet a percentage mechanically. During batch review, revise the chapter plans where the Kieran parallel arc needs more on-page interiority, or explicitly revise the target after editorial approval.
