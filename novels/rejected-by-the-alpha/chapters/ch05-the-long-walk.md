@@ -16,7 +16,7 @@ She took the next step anyway. Then the one after it.
 
 Duskmoor at this hour should have been shuttered and dark. It wasn't. Lamps burned behind half the windows on the mill road, and every one of them went out as she came level with it.
 
-That was the part she had not braced for. Not shouting. The tidiness of it.
+She had braced for shouting, not the tidiness of it.
 
 A door closed on her left, careful and slow, the way you shut a door when you would rather nobody heard you shut it. Then a second. Then a third, further up the road, before she had even reached it.
 
@@ -90,7 +90,7 @@ One of the enforcers put a hand flat on the post as he passed. He did not look a
 
 Past it, the ground fell away into scrub and black trees, and the snow came off the open ground sideways.
 
-The Wilds did not look like anything. That was the part nobody had ever said about them.
+The Wilds did not look like anything. Nobody had ever thought to mention that.
 
 She had grown up on stories where the border was a wall, or a wound, and it was neither. It was only more country, going on, with nobody's law laid over it.
 
