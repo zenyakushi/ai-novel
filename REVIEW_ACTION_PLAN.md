@@ -14,7 +14,7 @@ Audit date: 2026-10-09. Scope: current repository files and the first 20 prose c
 
 ## 3. Chapter 21 outline
 - [x] Reframed Chapter 21 to build from Cassian's introduction and Thornhollow's grievance already present in Chapter 20.
-- [x] Kept new evidence within the established premise: Thornhollow's historic exile for defying the Sanctum, rather than inventing an unrelated backstory.
+- [x] Removed the planned extra-history reveal because no specific new evidence was established in the bible. Chapter 21 now centers on Cassian interrogating the scout, checking existing records, and choosing a discreet search.
 
 ## 4. Outline and bible alignment
 - [x] Added Batch headings 5-10.
