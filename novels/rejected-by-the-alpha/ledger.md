@@ -1,9 +1,9 @@
 # Novel 1: Story-State Ledger
 
-Per-chapter deltas, in order. The live Story-State Ledger is the last Master
-Ledger Update plus every delta since. No Master Ledger Update has fired yet:
-the first checkpoint is due at batch end or immediately after the next major
-event, whichever lands first.
+Per-chapter deltas, in order. The live Story-State Ledger is the Chapter 20 Master Ledger Update plus every
+delta since that checkpoint. Master Ledger Updates fired after Chapters 6 and
+20. Chapter 20 is the current checkpoint; the next is due at the next batch end
+or immediately after a major plot event.
 
 ## Chapter 1 delta
 
@@ -253,7 +253,7 @@ Chapter 21.
 
 **Wren, current position**
 
-* Alive, fully healed, six weeks past the border. Rib wound closed in fourteen hours and left a thin fading seam. Skull injury healed with no lasting effect.
+* Alive, fully healed, nearly four weeks past the border. Rib wound closed in fourteen hours and left a thin fading seam. Skull injury healed with no lasting effect.
 * Can reach the second pulse deliberately, once, at the cost of collapsing. Knows it is the near end of something far larger. Wants more of it, which Tamsin has named as the danger it is.
 * Proven resistant to a full Alpha command in front of four witnesses.
 * Knows the Emberveil name, the suppressed history in four pieces, and that the Rite is a net. Does not know about the Bloodline Registry, the annotation in the Rite record, or that Kieran is looking.
