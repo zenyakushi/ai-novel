@@ -6,7 +6,7 @@ ZenithCite's editorial standard is ruthlessly functional: every element must dir
 
 **Current state**
 
-Active novel project has prose drafts through Chapter 20. Chapter 20's Master Ledger Update is the current continuity checkpoint. Treat current prose as draft material subject to continued editorial review. The Chapter 21 outline is being adjusted to build on the Cassian introduction in Chapter 20.
+Active novel project has prose drafts through Chapter 20. Chapter 20's Master Ledger Update is the current continuity checkpoint. Treat current prose as draft material subject to continued editorial review. The Chapter 21 outline has been revised to build on Cassian's introduction in Chapter 20 without repeating his grievance or inventing unsupported historical evidence.
 
 - **Chapter 1**: Cold-open flash-forward (present tense) + past-tense main narrative. Wren's hidden secondary pulse ignites a public mate bond at the Rite. Established the "binding thread" mechanic. Ledger delta logged.
 - **Chapter 2**: Kieran POV. Bond ignition suppressed by King Aldric and Oracle Yseult. Political conspiracy introduced. Ledger delta logged.
