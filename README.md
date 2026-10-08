@@ -30,7 +30,7 @@ Exit 0 means the scanned files pass the checks the script actually implements. I
 
 ## Current novel state
 
-`Rejected by the Alpha` has prose drafts through Chapter 20. The Chapter 20 Master Ledger Update is the current continuity checkpoint. Chapter-level POV planning exists in `novels/rejected-by-the-alpha/outline.md`; Chapters 26-350 are marked UNASSIGNED and must be assigned before drafting. See `REVIEW_ACTION_PLAN.md` for the current audit scope.
+`Rejected by the Alpha` has prose drafts through Chapter 20. The Chapter 20 Master Ledger Update is the current continuity checkpoint. Chapter-level POV planning exists in `novels/rejected-by-the-alpha/outline.md`; Chapters 26-350 have provisional proposals that must be reviewed before drafting. The current proposals do not yet meet the bible's 65% Wren / 35% Kieran target. See `REVIEW_ACTION_PLAN.md` for the current audit scope.
 
 ## Starting a new novel
 
