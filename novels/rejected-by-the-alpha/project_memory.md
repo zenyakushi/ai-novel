@@ -6,7 +6,7 @@ ZenithCite's editorial standard is ruthlessly functional: every element must dir
 
 **Current state**
 
-Active novel project is in early chapter production. Chapters 1-4 have been drafted, audited, and finalized:
+Active novel project has prose drafts through Chapter 20. Chapter 20's Master Ledger Update is the current continuity checkpoint. Treat current prose as draft material subject to continued editorial review. The Chapter 21 outline is being adjusted to build on the Cassian introduction in Chapter 20.
 
 - **Chapter 1**: Cold-open flash-forward (present tense) + past-tense main narrative. Wren's hidden secondary pulse ignites a public mate bond at the Rite. Established the "binding thread" mechanic. Ledger delta logged.
 - **Chapter 2**: Kieran POV. Bond ignition suppressed by King Aldric and Oracle Yseult. Political conspiracy introduced. Ledger delta logged.
@@ -17,7 +17,7 @@ The production SOP (Parts A-F) exists as a refined markdown document covering: s
 
 **On the horizon**
 
-- Chapters 5-6 outlined and ready for drafting (outlines supplied in Chapter 4 session).
+- POV assignments are provisional through Chapter 25. Chapters 26-350 are explicitly UNASSIGNED in the outline and must be assigned before drafting.
 - Ongoing ledger management: per-chapter delta outputs, full master ledger rewrite at batch-end checkpoints or after major plot events (deaths, reveals).
 - Continued POV rotation tracking (Kieran/Wren balance).
 - Placeholder chapters from the Chapter 1 restructure (two chapters displaced when Chapters 1-6 compressed to 1-4) still need final placement.
@@ -25,7 +25,7 @@ The production SOP (Parts A-F) exists as a refined markdown document covering: s
 
 **Key learnings & principles**
 
-- **Word count is a hard requirement, not a guideline.** Target is 1,000-1,500 words per chapter. Must be verified programmatically before delivery, not estimated.
+- **Word count is platform-dependent.** The repository default is 1,000-1,500 words per chapter for internal drafting. The old platform comparison contains conflicting, unverified targets; do not change chapter lengths for submission until the chosen platform's current official requirements are confirmed. Verify counts programmatically, never estimate.
 - **Outline fidelity over improvisation.** If an outline is missing, request it; never invent plot.
 - **Flag, don't silently fix.** Surface issues explicitly so ZenithCite can make the call.
 - **Decisive on style when no preference is stated.** When ZenithCite expresses no preference, Claude resolves it using the bible's own rules.
@@ -66,3 +66,11 @@ The production SOP (Parts A-F) exists as a refined markdown document covering: s
 - Story bible, character ledger, world bible, and master continuity ledger for the Wren Ashveil novel
 - Chapter-by-chapter outline (all 350 chapters developed, with patch instructions for gap fills)
 - Target platforms: GoodNovel, Dreame, LetterLux, MoboReader, SevenCat/TapRead, NovelSnack, MegaNovel, StaryWriting
+
+**Audit update (2026-10-09)**
+
+- Timeline reconciled: Chapter 20 now says Wren spent nearly four weeks in the hut, aligning with the day-22 checkpoint in Chapter 16 and the subsequent short sequence.
+- Tamsin's statement in Chapter 9 now distinguishes lack of rescue/care from periodic verification sweeps, resolving the apparent contradiction with Chapter 13.
+- Chapter 1 now uses a consistent scene break and an explicit “Hours Earlier” transition.
+- Chapter 9's older mark has one visible physical feature: a narrow, pale raised ridge under the fresh brand. Treat that description as the current draft detail unless later canon revises it.
+- Platform AI rules and length recommendations require direct, current verification. The existing platform reference is not authoritative enough for a submission decision.
