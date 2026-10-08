@@ -74,7 +74,7 @@ She started back down the slope.
 
 Wren did not move for a moment.
 
-She had been in that hut six weeks. It was a turf roof and one room and a door with three bars, and she had bled on its floor and learned to split wood outside it, and she was surprised by how much it cost to leave.
+She had been in that hut for nearly four weeks. It was a turf roof and one room and a door with three bars, and she had bled on its floor and learned to split wood outside it, and she was surprised by how much it cost to leave.
 
 Then she went down after Tamsin, because the alternative was standing on a ridge where a stranger had lain all morning watching her.
 
