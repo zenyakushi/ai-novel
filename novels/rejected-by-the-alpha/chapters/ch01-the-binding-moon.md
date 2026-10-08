@@ -14,7 +14,7 @@ Underneath it, something else answers. A second pulse, hers but not hers, hammer
 
 Then the heat, the noise, all of it, goes out at once. Black swallows the rest.
 
-…---
+---
 
 *Hours Earlier*
 
