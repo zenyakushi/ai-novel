@@ -26,19 +26,9 @@ root. See `../../WORKFLOW.md` for the Google Docs review loop.
 
 ## Current state
 
-Chapters 1 through 4 are drafted, audited, and final. All four sit inside the
-1,000 to 1,500 word target:
+Chapters 1 through 20 have prose drafts. Treat them as drafts requiring continued editorial review, not as universally final or platform-ready. Chapter 20's Master Ledger Update is the current continuity checkpoint; the earlier checkpoint followed Chapter 6. Current word counts should be regenerated from the live files with `scripts/check.py`, not copied from this README.
 
-| Chapter | Title | POV | Words |
-| --- | --- | --- | --- |
-| 1 | The Binding Moon | Wren (no header, single POV) | 1,169 |
-| 2 | Alpha of Duskmoor | Kieran | 1,247 |
-| 3 | Rejected | Wren | 1,239 |
-| 4 | The Brand | Wren | 1,168 |
-
-Chapters 5 and 6 are outlined and ready to draft. No Master Ledger Update has
-fired yet; the first checkpoint is due at batch end or immediately after the next
-major event, whichever lands first.
+Chapter-level POV fields are in `outline.md`. Chapters 1-25 have provisional POV assignments. Chapters 26-350 are marked UNASSIGNED and must be assigned during batch planning before drafting.
 
 ## Canonical numbering
 
@@ -55,8 +45,9 @@ No header on single-POV chapters. Once dual POV starts, every chapter carries a
 
 ## Outstanding
 
-- Nothing dash-related. The whole repository is clean. Re-check with
-  `python3 scripts/check.py --repo` before any batch hand-off.
+- Run `python3 scripts/check.py --repo` before every hand-off. A passing mechanical check is necessary, not sufficient, for publication readiness.
+- Verify current official platform terms, especially AI-assisted content, before choosing a submission target.
+- Decide whether “A Second Wolf” refers to a literal second wolf or a metaphor for Wren's unmediated connection. The current prose says it is not a pulse and describes a wellspring, so the title/terminology needs intentional handling.
 - Two displaced chapters from the 1 through 6 compression still need final placement.
 - Three allied pack threads (Hollow Ridge / Rurik Voss, Fenmoor / Maeve Renn,
   Stonevale / Torvin Sedge) and the backstory integrations (Kessa Vane at Ch. 198,
