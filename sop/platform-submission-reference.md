@@ -16,7 +16,7 @@ Last audit: 2026-10-09. Official-source spot-check: STARY's current terms requir
 | Review timeline | 10-14 business days (cover/synopsis) \+ 2-4 weeks (contract decision) | 7 business days (non-exclusive) / 14+ business days (exclusive) | Not addressed 🚩 | Not stated 🚩 | Not stated 🚩 |
 | Genre restrictions | None named: all genres "welcome" | Not addressed 🚩 | Not addressed 🚩 | Explicit "not accepted" list (below) | No ban list; uses theme→genre→tag classification instead |
 | Fanfiction | Banned unless source is public domain | Not addressed 🚩 | Not addressed 🚩 | Not addressed 🚩 | Banned (submission checklist item) |
-| AI-generated content | Discouraged, tolerated for grammar only | Grounds for full bonus cancellation if discovered | Not addressed 🚩 | Supporting-tool use OK; fully-AI content banned | Submission-blocking checklist gate |
+| AI-generated content | Not verified from current official policy | Not verified from current official policy | Not verified from current official policy | Not verified from current official policy | Not verified from current official policy |
 | Language(s) accepted (exclusive) | English, Spanish, French, Indonesian, Filipino | English (implied) | Not addressed 🚩 | English (implied) | English |
 | Recommended chapter length | 0.8k-1k words | Not stated 🚩 | Not stated 🚩 | ≥1,000 words | 1,500-2,500 words |
 | Cover restrictions | Explicit (below) | Not addressed 🚩 | Not addressed 🚩 | Not addressed 🚩 | Not addressed 🚩 |
@@ -80,7 +80,7 @@ Last audit: 2026-10-09. Official-source spot-check: STARY's current terms requir
 
 **Content gates:**
 
-* Plagiarism, meaningless/repetitive content, and AI-generated text are grounds for full bonus cancellation, possible work removal, and potential legal consequences: treat this as a submission-integrity gate, not just a post-signing risk.
+* Historical research notes alleged restrictions on AI-generated text, but this has not been verified against a current official policy in this audit. Confirm the exact rule with SevenCat/TapRead before using this workflow.
 
 **Post-signing note that affects your submission plan:** hitting 30,000 words doesn't automatically trigger anything: you must separately **apply to "go premium"** after reaching it. Build that into your plan now so you're not caught off guard later.
 
@@ -154,7 +154,7 @@ Last audit: 2026-10-09. Official-source spot-check: STARY's current terms requir
 
 **Content gates:**
 
-* AI permitted only as a supporting tool: fully AI-generated chapters, unedited AI output, AI-inflated word counts, and AI-driven style inconsistency are all explicit violations.  
+* Historical research notes alleged AI-use restrictions, but this has not been verified against current official LetterLux policy in this audit. Confirm directly before submission.  
 * Zero tolerance for plagiarism, repeated/meaningless content, and multi-accounting to game the system. LetterLux has final say on any bonus/benefit determination tied to a violation.
 
 **Submission checklist:**
@@ -164,7 +164,7 @@ Last audit: 2026-10-09. Official-source spot-check: STARY's current terms requir
 * \[ \] 5,000 words ready for first submission  
 * \[ \] First 6 chapters specifically polished: these carry outsized weight  
 * \[ \] Confirmed the work isn't in a "not accepted" genre (Poetry, Political/Historical, non-escalating Slice of Life, Short Story Compilation, Pure Horror)  
-* \[ \] AI use, if any, limited to supporting-tool level, not generation
+* \[ \] Written confirmation of current AI-use rules for this workflow, including outlining, drafting, rewriting, grammar correction, and editing
 
 ---
 
@@ -195,7 +195,7 @@ Last audit: 2026-10-09. Official-source spot-check: STARY's current terms requir
 * \[ \] Correct genre identified (Step 2\)  
 * \[ \] At least 2 tags selected  
 * \[ \] At least 1 niche tag, if the work is a Niche Genre  
-* \[ \] Work is original English-language content: **not AI-generated, not plagiarized, not fan fiction**  
+* \[ \] Confirm current originality, fan-fiction, and AI-use rules directly with MoboReader before submission  
 * 🚩 \[ \] Word-count feasibility against a target date: the source's own example is "Can I complete 200,000 words by August 31?" This reads as tied to a specific contest/cohort, not a standing rule for every submission. Don't treat 200k-by-a-fixed-date as universal without confirming the current live target.
 
 **Submission checklist:**
@@ -204,7 +204,7 @@ Last audit: 2026-10-09. Official-source spot-check: STARY's current terms requir
 * \[ \] Book entry created with language, title, blurb, locked-chapter point, genre, tag, editor info filled in  
 * \[ \] 10 chapters **and** 10,000 words uploaded (both, not either)  
 * \[ \] Theme → Genre → Tags assigned in that order, with a niche tag included if applicable  
-* \[ \] Confirmed not AI-generated, not plagiarized, not fan fiction  
+* \[ \] Confirmed current originality, fan-fiction, and AI-use rules directly with MoboReader  
 * \[ \] Chapters targeting 1,500-2,500 words each, not reused from a shorter-format platform unchanged
 
 ---
@@ -217,7 +217,7 @@ Regardless of which platform you're submitting to next, confirm these before ope
 * \[ \] First chapters specifically polished, not just "the whole draft is fine": every platform in this set uses your opening chapters as the actual signing decision, not the manuscript as a whole  
 * \[ \] Genre checked against that platform's accepted list (hard list on LetterLux; classification system on MoboReader; unrestricted-but-verify on the others)  
 * \[ \] Confirmed the work is not fan fiction of non-public-domain IP, if that platform bans it (GoodNovel, MoboReader explicitly; unconfirmed elsewhere)  
-* \[ \] AI-assist level checked against that platform's tolerance, from GoodNovel's "grammar-fix only" leniency to SevenCat's zero-tolerance and MoboReader's submission-blocking gate  
+* \[ \] AI-assist level confirmed from current official policy or written editor guidance; do not rely on older summaries  
 * \[ \] Chapter length adjusted to that platform's format norm before uploading (don't paste MoboReader-length chapters into a LetterLux submission unchanged, or vice versa)  
 * \[ \] Cover art ready and checked against content restrictions, where the platform states any (GoodNovel is explicit; others unconfirmed)  
 * \[ \] A completion/ending outline ready to submit if that platform asks for one (confirmed requirement on GoodNovel)
