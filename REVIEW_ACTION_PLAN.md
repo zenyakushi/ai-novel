@@ -26,13 +26,14 @@ Audit date: 2026-10-09. Scope: current repository files and the first 20 prose c
 - [x] Chapter 1's dotted scene separator replaced with the established scene-break format and the planned "Hours Earlier" label.
 - [x] Chapter 9's mark description made visually legible, and Tamsin's exposition clarified.
 - [x] Chapter 20's recovery duration corrected without rewriting the opening 20 chapters wholesale.
-- [ ] Further line editing across all 20 chapters remains a separate editorial pass; the first pass should target repeated rhetorical constructions, not rewrite voice indiscriminately.
+- [x] Targeted style pass applied across Chapters 1, 5, 6, 8, 9, 11, 13, 19, and 20. It varied repeated rhetorical constructions, fixed the scene break, clarified the older mark, and corrected the timeline without rewriting the opening wholesale. A full line-by-line copyedit remains optional and separate.
 
 ## 6. Platform-policy verification
 - [x] Marked the platform reference as historical research rather than current authoritative policy.
 - [x] Checked official GoodNovel and STARY pages. GoodNovel's official guide gives a two-weeks-to-one-month contract-response estimate; STARY's terms require originality/rights warranties but do not, by themselves, settle the full AI-use policy.
 - [x] Removed unsupported definitive AI-policy claims from the platform comparison and replaced them with a written-confirmation requirement.
-- [ ] Current official AI-use rules remain unverified for SevenCat/TapRead, LetterLux, and MoboReader, and the exact planned workflow must be cleared with the chosen platform before submission.
+- [x] Audited accessible official sources and made the gaps explicit. GoodNovel's official guide and STARY's official terms were checked; the exact AI-use and chapter-length requirements are not yet verified across all five targets.
+- [ ] Submission/scaling remains blocked until a primary platform is chosen and its current AI-use rules, chapter-length requirements, contract terms, and rights grant are confirmed from official terms or in writing from an editor.
 
 ## Next safe production step
 Do not draft Chapter 21 until its POV and the next batch's POV plan are reviewed. Confirm the Wren/Kieran distribution target, then run the repository's mechanical checker and a manual continuity/style audit before publishing any chapter draft.
